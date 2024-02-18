@@ -1,0 +1,374 @@
+,city,population,country,lat,lng
+149,Tirana,374801,Albania,41.3275,19.8189
+13,Vienna,1691468,Austria,48.2085,16.3721
+320,Graz,222326,Austria,47.0667,15.45
+357,Linz,204846,Austria,48.3064,14.2861
+367,Favoriten,201882,Austria,48.1612,16.3823
+401,Donaustadt,187007,Austria,48.2333,16.46
+479,Floridsdorf,162779,Austria,48.25,16.4
+9,Minsk,1742124,Belarus,53.9,27.5667
+113,Gomel,480951,Belarus,52.4345,30.9754
+153,Mahilyow,369200,Belarus,53.9168,30.3449
+170,Vitebsk,342700,Belarus,55.1904,30.2049
+194,Hrodna,317365,Belarus,53.6884,23.8258
+214,Brest,300715,Belarus,52.0975,23.6877
+324,Babruysk,220517,Belarus,53.1384,29.2214
+450,Baranovichi,168772,Belarus,53.1327,26.0139
+35,Brussels,1019022,Belgium,50.8504,4.34878
+121,Antwerpen,459805,Belgium,51.2199,4.40346
+302,Gent,231493,Belgium,51.05,3.71667
+369,Charleroi,200132,Belgium,50.4114,4.44448
+415,Liege,182597,Belgium,50.6337,5.56749
+59,Sarajevo,696731,Bosnia and Herzegovina,43.8486,18.3564
+323,Banja Luka,221106,Bosnia and Herzegovina,44.7784,17.1939
+470,Zenica,164423,Bosnia and Herzegovina,44.2017,17.904
+25,Sofia,1152556,Bulgaria,42.6975,23.3242
+172,Plovdiv,340494,Bulgaria,42.15,24.75
+204,Varna,312770,Bulgaria,43.2167,27.9167
+384,Burgas,195966,Bulgaria,42.5061,27.4678
+58,Zagreb,698966,Croatia,45.8144,15.978
+431,Split,176314,Croatia,43.5089,16.4391
+368,Nicosia,200452,Cyprus,35.1753,33.3642
+23,Prague,1165581,Czech Republic,50.088,14.4208
+152,Brno,369559,Czech Republic,49.1952,16.608
+203,Ostrava,313088,Czech Republic,49.8346,18.282
+472,Pilsen,164180,Czech Republic,49.7475,13.3776
+24,Copenhagen,1153615,Denmark,55.6759,12.5655
+288,Arhus,237551,Denmark,56.1567,10.2108
+142,Tallinn,394024,Estonia,59.437,24.7535
+89,Helsinki,558457,Finland,60.1695,24.9354
+259,Espoo,256760,Finland,60.2052,24.6522
+364,Tampere,202687,Finland,61.4991,23.7871
+393,Vantaa,190058,Finland,60.2941,25.041
+433,Turku,175945,Finland,60.4515,22.2687
+7,Paris,2138551,France,48.8534,2.3488
+49,Marseille,794811,France,43.297,5.38107
+117,Lyon,472317,France,45.7485,4.84671
+129,Toulouse,433055,France,43.6043,1.44367
+174,Nice,338620,France,43.7031,7.26608
+238,Nantes,277269,France,47.2173,-1.55336
+241,Strasbourg,274845,France,48.5839,7.74553
+272,Montpellier,248252,France,43.6109,3.87723
+301,Bordeaux,231844,France,44.8404,-0.5805
+308,Lille,228328,France,50.633,3.05858
+350,Rennes,209375,France,48.112,-1.67429
+382,Reims,196565,France,49.25,4.03333
+403,Le Havre,185972,France,49.4938,0.10767
+411,Cergy-Pontoise,183430,France,49.0389,2.07805
+432,Saint-Etienne,176280,France,45.4339,4.39
+451,Toulon,168701,France,43.1244,5.92836
+452,Angers,168279,France,47.4738,-0.54774
+490,Grenoble,158552,France,45.1716,5.72239
+3,Berlin,3426354,Germany,52.5244,13.4105
+11,Hamburg,1739117,Germany,53.5753,10.0153
+21,Munich,1260391,Germany,48.1374,11.5755
+40,Koeln,963395,Germany,50.9333,6.95
+64,Frankfurt am Main,650000,Germany,50.1155,8.68417
+75,Essen,593085,Germany,51.4566,7.01228
+77,Stuttgart,589793,Germany,48.7823,9.17702
+78,Dortmund,588462,Germany,51.5149,7.466
+85,Duesseldorf,573057,Germany,51.2217,6.77616
+92,Bremen,546501,Germany,53.0752,8.80777
+99,Hannover,515140,Germany,52.3705,9.73322
+104,Leipzig,504971,Germany,51.3396,12.3713
+106,Duisburg,504358,Germany,51.4325,6.76516
+108,Nuernberg,499237,Germany,49.4542,11.0775
+110,Dresden,486854,Germany,51.0509,13.7383
+135,Wandsbek,411422,Germany,53.5833,10.083
+143,Bochum,385729,Germany,51.4817,7.21648
+147,Bochum-Hordel,380000,Germany,51.5017,7.1756
+158,Wuppertal,360797,Germany,51.2563,7.14816
+179,Bielefeld,331906,Germany,52.0333,8.53333
+202,Bonn,313125,Germany,50.7344,7.09549
+207,Mannheim,307960,Germany,49.4891,8.46694
+228,Marienthal,287101,Germany,53.5667,10.0833
+229,Karlsruhe,283799,Germany,49.0094,8.40444
+231,Hamburg-Nord,280000,Germany,53.5894,9.984
+244,Wiesbaden,272432,Germany,50.0826,8.24932
+248,Muenster,270184,Germany,51.9624,7.62571
+249,Gelsenkirchen,270028,Germany,51.5051,7.09654
+252,Aachen,265208,Germany,50.7766,6.08342
+254,Moenchengladbach,261742,Germany,51.1854,6.44172
+256,Augsburg,259196,Germany,48.3715,10.8985
+266,Eimsbuettel,251907,Germany,53.5742,9.95679
+267,Altona,250192,Germany,53.55,9.93333
+275,Chemnitz,247220,Germany,50.8357,12.9292
+280,Braunschweig,244715,Germany,52.2659,10.5267
+287,Krefeld,237984,Germany,51.3364,6.55381
+297,Halle (Saale),234107,Germany,51.4816,11.9795
+298,Hamburg-Mitte,233144,Germany,53.55,10.0167
+300,Kiel,232758,Germany,54.3213,10.1349
+306,Magdeburg,229826,Germany,52.1277,11.6292
+314,Neue Neustadt,226851,Germany,52.15,11.6333
+328,Oberhausen,219176,Germany,51.4781,6.8625
+333,Freiburg,215966,Germany,47.9959,7.85222
+346,Luebeck,212207,Germany,53.8689,10.6873
+362,Erfurt,203254,Germany,50.9787,11.0328
+365,Harburg,202571,Germany,53.4606,9.98388
+376,Hagen,198972,Germany,51.3608,7.47168
+379,Rostock,198293,Germany,54.0887,12.1405
+385,Kassel,194501,Germany,51.3167,9.5
+407,Hamm,185327,Germany,51.6803,7.82089
+408,Mainz,184997,Germany,49.9842,8.2791
+418,Saarbruecken,181227,Germany,49.2326,7.00982
+439,Herne,172108,Germany,51.5388,7.22572
+446,Muelheim,171000,Germany,51.4322,6.87967
+462,Neukoelln,167248,Germany,52.4772,13.4313
+465,Osnabrueck,166462,Germany,52.2726,8.0498
+471,Solingen,164359,Germany,51.1734,7.0845
+478,Ludwigshafen am Rhein,163196,Germany,49.4812,8.44641
+480,Leverkusen,162738,Germany,51.0303,6.98432
+485,Oldenburg,159218,Germany,53.1412,8.21467
+62,Athens,664046,Greece,37.9795,23.7162
+164,Thessaloniki,354290,Greece,40.6436,22.9309
+454,Patra,168034,Greece,38.2444,21.7344
+475,Piraeus,163688,Greece,37.9474,23.6371
+10,Budapest,1741041,Hungary,47.498,19.0399
+360,Debrecen,204124,Hungary,47.5333,21.6333
+437,Miskolc,172637,Hungary,48.1,20.7833
+468,Szeged,164883,Hungary,46.253,20.1482
+34,Dublin,1024027,Ireland,53.3331,-6.24889
+392,Cork,190384,Ireland,51.898,-8.47061
+405,Dun Laoghaire,185400,Ireland,53.2939,-6.13586
+6,Rome,2318895,Italy,41.8919,12.5113
+22,Milan,1236837,Italy,45.4643,9.18951
+41,Naples,959470,Italy,40.8522,14.2681
+43,Turin,870456,Italy,45.0705,7.68682
+66,Palermo,648260,Italy,38.132,13.3356
+81,Genoa,580223,Italy,44.4048,8.94439
+156,Bologna,366133,Italy,44.4938,11.3387
+166,Florence,349296,Italy,43.7793,11.2463
+225,Catania,290927,Italy,37.4922,15.0704
+237,Bari,277387,Italy,41.1115,16.8554
+326,Messina,219948,Italy,38.1939,15.5526
+329,Verona,219103,Italy,45.4299,10.9844
+361,Padova,203725,Italy,45.408,11.8859
+400,Trieste,187056,Italy,45.6495,13.7768
+409,Brescia,184826,Italy,45.5356,10.2147
+417,Prato,181820,Italy,43.8805,11.097
+420,Taranto,181082,Italy,40.4644,17.2471
+448,Reggio Calabria,169140,Italy,38.1105,15.6613
+488,Modena,158886,Italy,44.6478,10.9254
+91,Pristina,550000,Kosovo,42.6727,21.1669
+443,Prizren,171464,Kosovo,42.2139,20.7397
+52,Riga,742572,Latvia,56.946,24.1059
+93,Vilnius,542366,Lithuania,54.6892,25.2798
+150,Kaunas,374643,Lithuania,54.9027,23.9096
+389,Klaipeda,192307,Lithuania,55.7089,21.1431
+68,Chisinau,635994,Moldova,47.0056,28.8575
+499,Tiraspol,157000,Moldova,46.8427,29.6291
+53,Amsterdam,741636,Netherlands,52.374,4.88969
+74,Rotterdam,598199,Netherlands,51.9225,4.47917
+116,The Hague,474292,Netherlands,52.0767,4.29861
+226,Utrecht,290529,Netherlands,52.0908,5.12222
+349,Eindhoven,209620,Netherlands,51.4408,5.47778
+371,Tilburg,199613,Netherlands,51.5555,5.0913
+419,Groningen,181194,Netherlands,53.2192,6.56667
+430,Almere Stad,176432,Netherlands,52.3703,5.21413
+458,Breda,167673,Netherlands,51.5866,4.77596
+489,Nijmegen,158732,Netherlands,51.8425,5.85278
+115,Skopje,474889,North Macedonia,41.9965,21.4314
+82,Oslo,580000,Norway,59.9127,10.7461
+342,Bergen,213585,Norway,60.393,5.32415
+12,Warsaw,1702139,Poland,52.2298,21.0118
+50,Lodz,768755,Poland,51.7706,19.4739
+51,Krakow,755050,Poland,50.0614,19.9366
+69,Wroclaw,634893,Poland,51.1,17.0333
+87,Poznan,570352,Poland,52.4069,16.9299
+120,Gdansk,461865,Poland,54.3521,18.6464
+137,Szczecin,407811,Poland,53.4289,14.553
+155,Bydgoszcz,366452,Poland,53.1235,18.0076
+160,Lublin,360044,Poland,51.25,22.5667
+195,Katowice,317316,Poland,50.2584,19.0275
+223,Bialystok,291855,Poland,53.1333,23.1643
+263,Gdynia,253730,Poland,54.5189,18.5319
+273,Czestochowa,248125,Poland,50.7965,19.1241
+312,Sosnowiec,227295,Poland,50.2868,19.1038
+315,Radom,226794,Poland,51.4025,21.1471
+345,Mokotow,212670,Poland,52.1934,21.0349
+351,Torun,208717,Poland,53.0137,18.5981
+352,Kielce,208598,Poland,50.8703,20.6275
+377,Gliwice,198835,Poland,50.2976,18.6766
+390,Zabrze,192177,Poland,50.3249,18.7858
+395,Bytom,189186,Poland,50.348,18.9328
+397,Praga Poludnie,187845,Poland,52.2442,21.0854
+428,Bielsko-Biala,176515,Poland,49.8224,19.0469
+442,Olsztyn,171803,Poland,53.7799,20.4942
+492,Rzeszow,158382,Poland,50.0413,21.999
+97,Lisbon,517802,Portugal,38.7167,-9.13333
+269,Porto,249633,Portugal,41.1496,-8.61099
+426,Amadora,178858,Portugal,38.7538,-9.23083
+8,Bucharest,1877155,Romania,44.4323,26.1063
+144,Sector 3,385439,Romania,44.4234,26.1687
+154,Sector 6,367760,Romania,44.4358,26.0165
+167,Sector 2,345370,Romania,44.4528,26.1332
+190,Iasi,318012,Romania,47.1667,27.6
+196,Cluj-Napoca,316748,Romania,46.7667,23.6
+198,Timisoara,315053,Romania,45.7537,21.2257
+210,Craiova,304142,Romania,44.3167,23.8
+211,Constanta,303399,Romania,44.1807,28.6343
+222,Galati,294087,Romania,45.45,28.05
+227,Sector 4,287828,Romania,44.3757,26.1208
+239,Brasov,276088,Romania,45.6486,25.6061
+246,Sector 5,271575,Romania,44.3881,26.0714
+307,Ploiesti,228851,Romania,44.95,26.0167
+317,Sector 1,225453,Romania,44.4924,26.0483
+343,Braila,213569,Romania,45.2667,27.9833
+354,Oradea,206614,Romania,47.0458,21.9183
+444,Bacau,171396,Romania,46.5672,26.9138
+449,Arad,169065,Romania,46.1833,21.3167
+459,Pitesti,167669,Romania,44.85,24.8667
+20,Belgrade,1273651,Serbia,44.804,20.4651
+268,Nis,250000,Serbia,43.3247,21.9033
+338,Novi Sad,215400,Serbia,45.2517,19.8369
+131,Bratislava,423737,Slovakia,48.1482,17.1067
+289,Kosice,236563,Slovakia,48.714,21.2581
+245,Ljubljana,272220,Slovenia,46.0511,14.5051
+4,Madrid,3255944,Spain,40.4165,-3.70256
+14,Barcelona,1621537,Spain,41.3888,2.15899
+47,Valencia,814208,Spain,39.4697,-0.37739
+56,Sevilla,703206,Spain,37.3828,-5.97317
+61,Zaragoza,674317,Spain,41.6561,-0.87734
+88,Malaga,568305,Spain,36.7202,-4.42034
+127,Murcia,436870,Spain,37.987,-1.13004
+138,Palma,401270,Spain,39.5694,2.65024
+145,Las Palmas de Gran Canaria,381847,Spain,28.0997,-15.4134
+163,Bilbao,354860,Spain,43.2627,-2.92528
+178,Alicante,334757,Spain,38.3452,-0.48149
+180,Cordoba,328428,Spain,37.8915,-4.77275
+191,Valladolid,317864,Spain,41.6552,-4.72372
+219,Vigo,297332,Spain,42.2328,-8.72264
+236,Gijon,277554,Spain,43.5357,-5.66152
+251,Eixample,266477,Spain,41.389,2.16179
+258,L'Hospitalet de Llobregat,257038,Spain,41.3597,2.10028
+260,Latina,256644,Spain,40.389,-3.74569
+264,Carabanchel,253678,Spain,40.3909,-3.7242
+278,A Coruna,246056,Spain,43.3713,-8.396
+281,Puente de Vallecas,244151,Spain,40.3935,-3.662
+291,Sant Marti,235719,Spain,41.4181,2.19933
+293,Gasteiz / Vitoria,235661,Spain,42.85,-2.67268
+295,Granada,234325,Spain,37.1882,-3.60667
+304,Elche,230112,Spain,38.2622,-0.70107
+309,Ciudad Lineal,228171,Spain,40.445,-3.65132
+318,Oviedo,224005,Spain,43.3603,-5.84476
+319,Santa Cruz de Tenerife,222417,Spain,28.4682,-16.2546
+325,Fuencarral-El Pardo,220085,Spain,40.4984,-3.7314
+327,Badalona,219547,Spain,41.45,2.24741
+347,Cartagena,211996,Spain,37.6051,-0.98623
+348,Terrassa,210941,Spain,41.5667,2.01667
+353,Jerez de la Frontera,207532,Spain,36.6865,-6.13606
+355,Sabadell,206493,Spain,41.5433,2.10942
+356,Mostoles,206478,Spain,40.3223,-3.86496
+358,Alcala de Henares,204574,Spain,40.4821,-3.35996
+378,Pamplona,198491,Spain,42.8169,-1.64323
+380,Fuenlabrada,197836,Spain,40.2842,-3.79415
+396,Almeria,188810,Spain,36.8381,-2.45974
+402,Leganes,186066,Spain,40.3272,-3.7635
+406,San Sebastian,185357,Spain,43.3128,-1.97499
+413,Sants-Montjuic,183120,Spain,41.3726,2.1546
+414,Santander,182700,Spain,43.4647,-3.80444
+422,Castello de la Plana,180005,Spain,39.9857,-0.04935
+425,Burgos,178966,Spain,42.3411,-3.70184
+447,Albacete,169716,Spain,38.9942,-1.85643
+453,Horta-Guinardo,168092,Spain,41.4185,2.1677
+455,Alcorcon,167967,Spain,40.3458,-3.82487
+463,Getafe,167164,Spain,40.3057,-3.73295
+466,Nou Barris,166310,Spain,41.4416,2.17727
+481,Hortaleza,161661,Spain,40.4744,-3.6411
+497,San Blas-Canillejas,157367,Spain,40.4389,-3.61537
+15,Stockholm,1515017,Sweden,59.3326,18.0649
+86,Goeteborg,572799,Sweden,57.7072,11.9668
+213,Malmoe,301706,Sweden,55.6059,13.0007
+171,Zurich,341730,Switzerland,47.3667,8.55
+410,Geneve,183981,Switzerland,46.2022,6.14569
+469,Basel,164488,Switzerland,47.5584,7.57327
+5,Kyiv,2797553,Ukraine,50.4547,30.5238
+16,Kharkiv,1430885,Ukraine,49.9808,36.2527
+32,Dnipro,1032822,Ukraine,48.4593,35.0387
+33,Donetsk,1024700,Ukraine,48.023,37.8022
+37,Odessa,1001558,Ukraine,46.4775,30.7326
+48,Zaporizhia,796217,Ukraine,47.8229,35.1903
+55,Lviv,717803,Ukraine,49.8383,24.0232
+63,Kryvyi Rih,652380,Ukraine,47.9097,33.3804
+101,Mykolayiv,510840,Ukraine,46.9659,31.9974
+112,Mariupol,481626,Ukraine,47.0951,37.5413
+124,Luhansk,452000,Ukraine,48.5671,39.3171
+133,Sevastopol,416263,Ukraine,44.5888,33.5224
+140,Khmelnytskyi,398346,Ukraine,49.4216,26.9965
+148,Makiyivka,376610,Ukraine,48.0478,37.9258
+165,Vinnytsia,352115,Ukraine,49.2328,28.481
+176,Simferopol,336460,Ukraine,44.9572,34.1108
+186,Kherson,320477,Ukraine,46.6558,32.6178
+192,Poltava,317847,Ukraine,49.5937,34.5407
+208,Chernihiv,307684,Ukraine,51.5055,31.2849
+218,Cherkasy,297568,Ukraine,49.4285,32.0621
+221,Sumy,294456,Ukraine,50.9216,34.8003
+230,Zhytomyr,282192,Ukraine,50.2649,28.6767
+234,Horlivka,278550,Ukraine,48.3358,38.0532
+262,Rivne,255106,Ukraine,50.6231,26.2274
+270,Kropyvnytskyi,249454,Ukraine,48.5132,32.2597
+271,Kamianske,248575,Ukraine,48.5113,34.6021
+290,Chernivtsi,236250,Ukraine,48.2915,25.9403
+292,Ternopil,235676,Ukraine,49.5534,25.5892
+311,Kremenchuk,227494,Ukraine,49.068,33.4204
+341,Lutsk,213661,Ukraine,50.7593,25.3424
+359,Ivano-Frankivsk,204200,Ukraine,48.9215,24.7097
+374,Bila Tserkva,199163,Ukraine,49.8094,30.1121
+435,Kramators'k,173700,Ukraine,48.723,37.5563
+495,Melitopol,158000,Ukraine,46.8489,35.3653
+1,London,7556900,United Kingdom,51.5085,-0.12574
+38,Birmingham,984333,United Kingdom,52.4814,-1.89983
+44,Liverpool,864122,United Kingdom,53.4106,-2.97794
+54,Nottingham,729977,United Kingdom,52.9536,-1.15047
+60,Sheffield,685368,United Kingdom,53.383,-1.4659
+71,Bristol,617280,United Kingdom,51.4552,-2.59665
+76,Glasgow,591620,United Kingdom,55.8652,-4.25763
+103,Leicester,508916,United Kingdom,52.6386,-1.13169
+119,Edinburgh,464990,United Kingdom,55.9521,-3.19648
+123,Leeds,455123,United Kingdom,53.7965,-1.54785
+125,Cardiff,447287,United Kingdom,51.48,-3.18
+141,Manchester,395515,United Kingdom,53.4809,-2.23743
+151,Stoke-on-Trent,372775,United Kingdom,53.0042,-2.18538
+161,Coventry,359262,United Kingdom,52.4066,-1.51217
+177,Sunderland,335415,United Kingdom,54.9047,-1.38222
+182,Birkenhead,325264,United Kingdom,53.3934,-3.01479
+188,Islington,319143,United Kingdom,51.5362,-0.10304
+189,Reading,318014,United Kingdom,51.4562,-0.97113
+200,Kingston upon Hull,314018,United Kingdom,53.7446,-0.33525
+201,Preston,313332,United Kingdom,53.7628,-2.70452
+209,Newport,306844,United Kingdom,51.5877,-2.99835
+216,Swansea,300352,United Kingdom,51.6208,-3.94323
+217,Bradford,299310,United Kingdom,53.7939,-1.75206
+220,Southend-on-Sea,295310,United Kingdom,51.5378,0.71433
+242,Belfast,274770,United Kingdom,54.5968,-5.92541
+247,Derby,270468,United Kingdom,52.9228,-1.47663
+255,Plymouth,260203,United Kingdom,50.3715,-4.14305
+257,Luton,258018,United Kingdom,51.8797,-0.41748
+265,Wolverhampton,252791,United Kingdom,52.5855,-2.12296
+274,City of Westminster,247614,United Kingdom,51.5,-0.11667
+277,Southampton,246201,United Kingdom,50.9039,-1.40428
+286,Blackpool,239409,United Kingdom,53.8167,-3.05
+305,Milton Keynes,229941,United Kingdom,52.0417,-0.75583
+310,Bexley,228000,United Kingdom,51.4416,0.14866
+334,Northampton,215963,United Kingdom,52.25,-0.88333
+336,Archway,215667,United Kingdom,51.5673,-0.13415
+344,Norwich,213166,United Kingdom,52.6278,1.29834
+375,Dudley,199059,United Kingdom,52.5,-2.08333
+381,Aberdeen,196670,United Kingdom,57.1437,-2.09814
+387,Portsmouth,194150,United Kingdom,50.799,-1.09125
+388,Newcastle upon Tyne,192382,United Kingdom,54.9733,-1.61396
+398,Sutton,187600,United Kingdom,51.35,-0.2
+404,Swindon,185609,United Kingdom,51.558,-1.78116
+421,Crawley,180508,United Kingdom,51.113,-0.18312
+427,Ipswich,178835,United Kingdom,52.0592,1.15545
+434,Wigan,175405,United Kingdom,53.543,-2.63706
+436,Croydon,173314,United Kingdom,51.3833,-0.1
+438,Walsall,172141,United Kingdom,52.5853,-1.98396
+441,Mansfield,171958,United Kingdom,53.1333,-1.2
+445,Oxford,171380,United Kingdom,51.7522,-1.25596
+467,Warrington,165456,United Kingdom,53.3925,-2.58024
+474,Slough,163777,United Kingdom,51.5095,-0.59541
+476,Bournemouth,163600,United Kingdom,50.7205,-1.8795
+477,Peterborough,163379,United Kingdom,52.5736,-0.24777
+491,Cambridge,158434,United Kingdom,52.2,0.11667
+493,Doncaster,158141,United Kingdom,53.5229,-1.13116

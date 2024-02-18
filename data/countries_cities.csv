@@ -1,0 +1,2347 @@
+,country,city
+0,Albania,Apollonia
+1,Albania,Ballsh
+2,Albania,Berat
+3,Albania,Burrel
+4,Albania,Dhermi
+5,Albania,Durres
+6,Albania,Elbasan
+7,Albania,Fier
+8,Albania,Fierze
+9,Albania,Fushe-kruje
+10,Albania,Gjirokaster
+11,Albania,Gramsh
+12,Albania,Kamez (Kamze)
+13,Albania,Kelcyre
+14,Albania,Korce
+15,Albania,Kruje
+16,Albania,Kukes
+17,Albania,Lac
+18,Albania,Lezhe
+19,Albania,Lushnje
+20,Albania,Mamurras
+21,Albania,Permet
+22,Albania,Peshkopi
+23,Albania,Sarande
+24,Albania,Shengjin
+25,Albania,Shkoder
+26,Albania,Tepelene
+27,Albania,Tirana
+28,Albania,Tropoje
+29,Albania,Vlore
+30,Austria,Amstetten
+31,Austria,Bad Vöslau
+32,Austria,Baden
+33,Austria,Braunau
+34,Austria,Bregenz
+35,Austria,Bruckneudorf
+36,Austria,Dornbirn
+37,Austria,Feldkirch
+38,Austria,Gmunden
+39,Austria,Goestling an der Ybbs
+40,Austria,Graz
+41,Austria,Hainburg an der Donau
+42,Austria,Innsbruck
+43,Austria,Kapfenberg
+44,Austria,Klagenfurt
+45,Austria,Klosterneuburg
+46,Austria,Krems
+47,Austria,Kufstein
+48,Austria,Leoben
+49,Austria,Linz
+50,Austria,Saalfelden
+51,Austria,Salzburg
+52,Austria,Schwechat
+53,Austria,Steyr
+54,Austria,Tulln an der Donau
+55,Austria,Vienna
+56,Austria,Villach
+57,Austria,Vöcklabruck
+58,Austria,Wels
+59,Austria,Wiener Neustadt
+60,Austria,Wolfsberg
+61,Belarus,Baranavichy
+62,Belarus,Barysau
+63,Belarus,Braslav
+64,Belarus,Brest
+65,Belarus,Dobrush
+66,Belarus,Gomel
+67,Belarus,Grodno
+68,Belarus,Hrodna
+69,Belarus,Kobryn
+70,Belarus,Luninets
+71,Belarus,Maladzyechna (Molodechno)
+72,Belarus,Minsk
+73,Belarus,Mogilev
+74,Belarus,Mozyr
+75,Belarus,Navapolatsk
+76,Belarus,Orsha
+77,Belarus,Pinsk
+78,Belarus,Slonim
+79,Belarus,Vawkavysk
+80,Belarus,"Viciebsk (Vicebsk, Vitebsk)"
+81,Belarus,Zhlobin
+82,Belgium,Aalst
+83,Belgium,Aarschot
+84,Belgium,Antwerp
+85,Belgium,Arlon
+86,Belgium,Beringen
+87,Belgium,Beveren
+88,Belgium,Braine-l'Alleud
+89,Belgium,Braschaat
+90,Belgium,Brugge
+91,Belgium,Brussels
+92,Belgium,Charleroi
+93,Belgium,Deinze
+94,Belgium,Dendermonde
+95,Belgium,Dilbeek
+96,Belgium,Geel
+97,Belgium,Genk
+98,Belgium,Gent
+99,Belgium,Geraardsbergen
+100,Belgium,Hamont-Achel
+101,Belgium,Hasselt
+102,Belgium,Heist-op-den-Berg
+103,Belgium,Herentals
+104,Belgium,Kortrijk
+105,Belgium,Leuven
+106,Belgium,Liege
+107,Belgium,Louvain-la-Neuve
+108,Belgium,Mechelen
+109,Belgium,Mons
+110,Belgium,Mortsel
+111,Belgium,Mouscron
+112,Belgium,Namur
+113,Belgium,Ostend
+114,Belgium,Oudsbergen
+115,Belgium,Overpelt
+116,Belgium,Roeselare
+117,Belgium,Sint-Gillis
+118,Belgium,Sint-Niklaas
+119,Belgium,Sint-Pieters-Leeuw
+120,Belgium,Sint-Truiden
+121,Belgium,Spa
+122,Belgium,Tervuren
+123,Belgium,Tienen
+124,Belgium,Tournai
+125,Belgium,Turnhout
+126,Belgium,Veurne
+127,Belgium,Vilvoorde
+128,Belgium,Waregem
+129,Belgium,Waterloo
+130,Belgium,Woluwe Saint Lambert
+131,Bosnia and Herzegovina,Banja Luka
+132,Bosnia and Herzegovina,Bihac
+133,Bosnia and Herzegovina,Bijeljina
+134,Bosnia and Herzegovina,Bosanska Krupa
+135,Bosnia and Herzegovina,Brcko
+136,Bosnia and Herzegovina,Brod
+137,Bosnia and Herzegovina,Bugojno
+138,Bosnia and Herzegovina,Capljina
+139,Bosnia and Herzegovina,Cazin
+140,Bosnia and Herzegovina,Doboj
+141,Bosnia and Herzegovina,Foča
+142,Bosnia and Herzegovina,Gorazde (Goražde)
+143,Bosnia and Herzegovina,Gracanica
+144,Bosnia and Herzegovina,Gradacac
+145,Bosnia and Herzegovina,Gradiska
+146,Bosnia and Herzegovina,Istočno Sarajevo
+147,Bosnia and Herzegovina,Kakanj
+148,Bosnia and Herzegovina,Konjic
+149,Bosnia and Herzegovina,Livno
+150,Bosnia and Herzegovina,Lukavac
+151,Bosnia and Herzegovina,Maglaj
+152,Bosnia and Herzegovina,Mostar
+153,Bosnia and Herzegovina,Pale
+154,Bosnia and Herzegovina,Prijedor
+155,Bosnia and Herzegovina,Sanski Most
+156,Bosnia and Herzegovina,Sarajevo
+157,Bosnia and Herzegovina,Tesanj (Tešanj)
+158,Bosnia and Herzegovina,Travnik
+159,Bosnia and Herzegovina,Trebinje
+160,Bosnia and Herzegovina,Tuzla
+161,Bosnia and Herzegovina,Visoko
+162,Bosnia and Herzegovina,Vogosca
+163,Bosnia and Herzegovina,Zenica
+164,Bosnia and Herzegovina,Zepce
+165,Bulgaria,Asenovgrad
+166,Bulgaria,Bansko
+167,Bulgaria,Blagoevgrad
+168,Bulgaria,Botevgrad
+169,Bulgaria,Burgas
+170,Bulgaria,Dimitrovgrad
+171,Bulgaria,Dobrich
+172,Bulgaria,Dupnica
+173,Bulgaria,Gabrovo
+174,Bulgaria,Haskovo
+175,Bulgaria,Jambol
+176,Bulgaria,Kardzhali
+177,Bulgaria,Kazanlak
+178,Bulgaria,Kyustendil
+179,Bulgaria,Lovech
+180,Bulgaria,Montana
+181,Bulgaria,Pazardzhik
+182,Bulgaria,Pernik
+183,Bulgaria,Pleven
+184,Bulgaria,Plovdiv
+185,Bulgaria,Popovo
+186,Bulgaria,Razgrad
+187,Bulgaria,Ruse
+188,Bulgaria,Samokov
+189,Bulgaria,Sandanski
+190,Bulgaria,Shumen
+191,Bulgaria,Silistra
+192,Bulgaria,Sliven
+193,Bulgaria,Smolyan
+194,Bulgaria,Sofia
+195,Bulgaria,Stara Zagora
+196,Bulgaria,Sunny Beach
+197,Bulgaria,Svishtov
+198,Bulgaria,Targovishte
+199,Bulgaria,Varna
+200,Bulgaria,Veliko Tarnovo
+201,Bulgaria,Vidin
+202,Bulgaria,Vratsa
+203,Bulgaria,Yambol
+204,Croatia,Belišće
+205,Croatia,Bjelovar
+206,Croatia,Buzet
+207,Croatia,Cakovec
+208,Croatia,Crikvenica
+209,Croatia,Daruvar
+210,Croatia,Dubrovnik
+211,Croatia,Gospic
+212,Croatia,Jastrebarsko
+213,Croatia,Karlovac
+214,Croatia,Kaštela
+215,Croatia,Koprivnica
+216,Croatia,Krk
+217,Croatia,Kutina
+218,Croatia,Makarska
+219,Croatia,Metkovic
+220,Croatia,Nova Gradiska
+221,Croatia,Ogulin
+222,Croatia,Osijek
+223,Croatia,Petrinja
+224,Croatia,Porec
+225,Croatia,Pula
+226,Croatia,Rijeka
+227,Croatia,Rovinj
+228,Croatia,Samobor
+229,Croatia,Sesvete
+230,Croatia,Sibenik
+231,Croatia,Sisak
+232,Croatia,Slavonski Brod
+233,Croatia,Solin
+234,Croatia,Split
+235,Croatia,Umag
+236,Croatia,Varazdin
+237,Croatia,Velika Gorica
+238,Croatia,Vinkovci
+239,Croatia,Virovitica
+240,Croatia,Vukovar
+241,Croatia,Zadar
+242,Croatia,Zagreb
+243,Croatia,Zapresic
+244,Croatia,Zupanja
+245,Croatia,Đakovo
+246,Croatia,Šibenik
+247,Cyprus,Aglantzia
+248,Cyprus,Aradippou
+249,Cyprus,Athienou
+250,Cyprus,Ayia Napa
+251,Cyprus,Dali
+252,Cyprus,Egkomi
+253,Cyprus,Famagusta
+254,Cyprus,Iskele
+255,Cyprus,Kyrenia (Girne)
+256,Cyprus,Lapithos
+257,Cyprus,Larnaca
+258,Cyprus,Limassol
+259,Cyprus,Nicosia
+260,Cyprus,Paphos
+261,Cyprus,Paralimni
+262,Cyprus,Protaras
+263,Cyprus,Strovolos
+264,Cyprus,Tseri
+265,Cyprus,Ypsonas
+266,Czech Republic,Benesov
+267,Czech Republic,Blansko
+268,Czech Republic,Brandýs nad Labem-Stará Boleslav
+269,Czech Republic,Breclav
+270,Czech Republic,Brno
+271,Czech Republic,Caslav
+272,Czech Republic,Ceske Budejovice
+273,Czech Republic,Cesky Brod
+274,Czech Republic,Cheb
+275,Czech Republic,Chomutov
+276,Czech Republic,Děčín
+277,Czech Republic,Frýdek-Místek
+278,Czech Republic,Havirov
+279,Czech Republic,Hradec Kralove
+280,Czech Republic,Jablonec nad Nisou
+281,Czech Republic,Jihlava
+282,Czech Republic,Karlovy Vary
+283,Czech Republic,Kladno
+284,Czech Republic,Kolin
+285,Czech Republic,Kralupy nad Vltavou
+286,Czech Republic,Kutná Hora (Kutna Hora)
+287,Czech Republic,Lanskroun
+288,Czech Republic,Liberec
+289,Czech Republic,Litvinov (Litvínov)
+290,Czech Republic,Lysá nad Labem
+291,Czech Republic,Mlada Boleslav
+292,Czech Republic,Most
+293,Czech Republic,Novy Jicin
+294,Czech Republic,Nymburk
+295,Czech Republic,Olomouc
+296,Czech Republic,Opava
+297,Czech Republic,Ostrava
+298,Czech Republic,Otrokovice
+299,Czech Republic,Pardubice
+300,Czech Republic,Plzen
+301,Czech Republic,Podebrady
+302,Czech Republic,Prague
+303,Czech Republic,Prerov
+304,Czech Republic,Prostejov
+305,Czech Republic,Roznov pod Radhostem
+306,Czech Republic,Rudná
+307,Czech Republic,Rychnov nad Kněžnou
+308,Czech Republic,Slapanice
+309,Czech Republic,Tabor (Tábor)
+310,Czech Republic,Teplice
+311,Czech Republic,Trinec
+312,Czech Republic,Trutnov
+313,Czech Republic,Třeboň
+314,Czech Republic,Třebíč (Trebic)
+315,Czech Republic,Uherske Hradiste
+316,Czech Republic,Usti nad Labem
+317,Czech Republic,Vyskov
+318,Czech Republic,Zatec
+319,Czech Republic,Zlin
+320,Czech Republic,Znojmo
+321,Czech Republic,Český Krumlov
+322,Denmark,Aabenraa
+323,Denmark,Aalborg
+324,Denmark,Aarhus
+325,Denmark,Assens
+326,Denmark,Billund
+327,Denmark,Birkerød
+328,Denmark,Brabrand
+329,Denmark,Bylderup-Bov
+330,Denmark,Copenhagen
+331,Denmark,Esbjerg
+332,Denmark,Faaborg
+333,Denmark,Fredericia
+334,Denmark,Frederiksberg
+335,Denmark,Frederikshavn
+336,Denmark,Frederikssund
+337,Denmark,Glostrup
+338,Denmark,Greve Strand
+339,Denmark,Gribskov
+340,Denmark,Grindsted
+341,Denmark,Haderslev
+342,Denmark,Hellerup
+343,Denmark,Helsingor
+344,Denmark,Herning
+345,Denmark,Hillerod
+346,Denmark,Hjorring
+347,Denmark,Holstebro
+348,Denmark,Horsens
+349,Denmark,Hvidovre
+350,Denmark,Kolding
+351,Denmark,Kongens Lyngby
+352,Denmark,Køge (Koege)
+353,Denmark,Lolland
+354,Denmark,Naestved
+355,Denmark,Nyborg
+356,Denmark,Nykobing Falster
+357,Denmark,Odder
+358,Denmark,Odense
+359,Denmark,Randers
+360,Denmark,Ringsted
+361,Denmark,Roskilde
+362,Denmark,Silkeborg
+363,Denmark,Skive
+364,Denmark,Slagelse
+365,Denmark,Slangerup
+366,Denmark,Soeborg
+367,Denmark,Sonderborg
+368,Denmark,Svendborg
+369,Denmark,Thisted
+370,Denmark,Vejle
+371,Denmark,Viborg
+372,Denmark,Vordingborg
+373,Estonia,Elva
+374,Estonia,Haapsalu
+375,Estonia,Johvi
+376,Estonia,Keila
+377,Estonia,Kivioli
+378,Estonia,Kohtla-Järve
+379,Estonia,Kuressaare
+380,Estonia,Narva
+381,Estonia,Paide
+382,Estonia,Parnu
+383,Estonia,Polva
+384,Estonia,Rakvere
+385,Estonia,Saku
+386,Estonia,Saue
+387,Estonia,Tallinn
+388,Estonia,Tapa
+389,Estonia,Tartu
+390,Estonia,Viljandi
+391,Estonia,Voru
+392,Finland,Espoo
+393,Finland,Hameenlinna
+394,Finland,Hanko
+395,Finland,Helsinki
+396,Finland,Hyvinkaa
+397,Finland,Imatra
+398,Finland,Jakobstad (Pietarsaari)
+399,Finland,Jarvenpaa
+400,Finland,Joensuu
+401,Finland,Jyvaskyla
+402,Finland,Kajaani
+403,Finland,Kerava
+404,Finland,Kirkkonummi
+405,Finland,Kokkola
+406,Finland,Kotka
+407,Finland,Kouvola
+408,Finland,Kuopio
+409,Finland,Lahti
+410,Finland,Lappeenranta
+411,Finland,Lapua
+412,Finland,Lohja
+413,Finland,Mikkeli
+414,Finland,Naantali
+415,Finland,Oulu
+416,Finland,Pori
+417,Finland,Porvoo
+418,Finland,Rauma
+419,Finland,Riihimaki
+420,Finland,Rovaniemi
+421,Finland,Salo
+422,Finland,Savonlinna
+423,Finland,Seinajoki
+424,Finland,Tampere
+425,Finland,Turku
+426,Finland,Tuusula
+427,Finland,Vaasa
+428,Finland,Vantaa
+429,Finland,Varkaus
+430,France,Acheres
+431,France,Agen
+432,France,Aix-en-Provence
+433,France,Ajaccio
+434,France,Albertville
+435,France,Albi
+436,France,Ambert
+437,France,Amiens
+438,France,Angers
+439,France,Angouleme
+440,France,Annecy
+441,France,Annemasse
+442,France,Antibes
+443,France,Antony
+444,France,Arras
+445,France,Arrest
+446,France,Asnières-sur-Seine
+447,France,Aurillac
+448,France,Auxerre
+449,France,Avignon
+450,France,Bastia
+451,France,Bergerac
+452,France,Besancon
+453,France,Bethune
+454,France,Biarritz
+455,France,Bobigny
+456,France,Bordeaux
+457,France,Boulogne-Billancourt
+458,France,Boulogne-sur-Mer
+459,France,Bourges
+460,France,Bourgoin-Jallieu
+461,France,Brest
+462,France,Caen
+463,France,"Cagnes-sur-Mer, France"
+464,France,Cannes
+465,France,Cergy
+466,France,Cerise
+467,France,Chalon-sur-Saône
+468,France,Chambery
+469,France,Chamonix
+470,France,Champigny-sur-Marne
+471,France,Chanteloup-en-Brie
+472,France,Chartres
+473,France,Chateaubriant
+474,France,Chateauroux
+475,France,Chatou
+476,France,Cherbourg
+477,France,Cholet
+478,France,Clamart
+479,France,Clermont-Ferrand
+480,France,Cognac
+481,France,Colmar
+482,France,Compiègne (Compiegne)
+483,France,Courbevoie
+484,France,Dijon
+485,France,Dinan
+486,France,Divonne les Bains
+487,France,Douai
+488,France,Dunkirk (Dunkerque)
+489,France,Evry
+490,France,Fayence
+491,France,Ferney-Voltaire
+492,France,Fontainebleau
+493,France,Fontenay-le-Fleury
+494,France,Grenoble
+495,France,Guipry
+496,France,Guyancourt
+497,France,Heming
+498,France,Hossegor
+499,France,Ivry-sur-Seine
+500,France,La Courneuve
+501,France,La Garenne-Colombes
+502,France,La Rochelle
+503,France,Lannion
+504,France,Le Creusot
+505,France,Le Havre
+506,France,Le Mans
+507,France,Les Ulis
+508,France,Lille
+509,France,Limoges
+510,France,Lorient
+511,France,Lyon
+512,France,Manosque
+513,France,Marseille
+514,France,Massy
+515,France,Meaux
+516,France,Melun
+517,France,Meribel
+518,France,Merignac
+519,France,Metz
+520,France,Mont-de-Marsan
+521,France,Montceau
+522,France,Montpellier
+523,France,Montreuil
+524,France,Montévrain
+525,France,Mulhouse
+526,France,Nancy
+527,France,Nanterre
+528,France,Nantes
+529,France,Neuilly sur Seine
+530,France,Nevers
+531,France,Nice
+532,France,Nimes
+533,France,Niort
+534,France,Orleans
+535,France,Paris
+536,France,Pau
+537,France,Perpignan
+538,France,Poissy
+539,France,Poitiers
+540,France,Puteaux
+541,France,Quimper
+542,France,Rambouillet
+543,France,Reims
+544,France,Rennes
+545,France,Roubaix
+546,France,Rouen
+547,France,Royan
+548,France,Rueil-Malmaison
+549,France,Saint-Etienne
+550,France,Saint-Maur-des-Fossés
+551,France,Saint-Tropez
+552,France,Saintes
+553,France,Seine-Saint-Denis
+554,France,Soustons
+555,France,Strasbourg
+556,France,Sète
+557,France,Taninges
+558,France,Thionville
+559,France,Thonon-les-Bains
+560,France,Toulon
+561,France,Toulouse
+562,France,Tourcoing
+563,France,Tours
+564,France,Troyes
+565,France,Valence
+566,France,Valenciennes
+567,France,Vannes
+568,France,Versailles
+569,France,Vichy
+570,France,Villeneuve-sur-Lot
+571,France,Villeurbanne
+572,France,Voiron
+573,Germany,Aachen
+574,Germany,Aalen
+575,Germany,Abensberg
+576,Germany,Amberg
+577,Germany,Annaberg-Buchholz
+578,Germany,Ansbach
+579,Germany,Aschaffenburg
+580,Germany,Augsburg
+581,Germany,Bad Honnef
+582,Germany,Bad Kreuznach
+583,Germany,Bad Mergentheim
+584,Germany,Bad Salzuflen
+585,Germany,Bad Säckingen
+586,Germany,Baden Wurttemburg
+587,Germany,Bamberg
+588,Germany,Bayreuth
+589,Germany,Bensheim
+590,Germany,Bergisch Gladbach
+591,Germany,Berlin
+592,Germany,Bernburg
+593,Germany,Bielefeld
+594,Germany,Bitburg
+595,Germany,Bochum
+596,Germany,Bonn
+597,Germany,Bottrop
+598,Germany,Braunschweig
+599,Germany,Bremen
+600,Germany,Bremerhaven
+601,Germany,Bruchsal
+602,Germany,Böblingen
+603,Germany,Celle
+604,Germany,Chemnitz
+605,Germany,Coburg
+606,Germany,Cologne
+607,Germany,Cottbus
+608,Germany,Crailsheim
+609,Germany,Darmstadt
+610,Germany,Dessau
+611,Germany,Dortmund
+612,Germany,Dresden
+613,Germany,Duisburg
+614,Germany,Dusseldorf
+615,Germany,Erding
+616,Germany,Erfurt
+617,Germany,Erlangen
+618,Germany,Essen
+619,Germany,Flensburg
+620,Germany,Frankfurt
+621,Germany,Frankfurt (Oder)
+622,Germany,Freiberg
+623,Germany,Freiburg im Breisgau
+624,Germany,Freising
+625,Germany,Friedrichsdorf
+626,Germany,Friedrichshafen
+627,Germany,Fritzlar
+628,Germany,Fulda
+629,Germany,Fürstenfeldbruck
+630,Germany,Fürth
+631,Germany,Füssen
+632,Germany,Garmisch-Partenkirchen
+633,Germany,Gelsenkirchen
+634,Germany,Gera
+635,Germany,Giessen
+636,Germany,Goettingen
+637,Germany,Greifswald
+638,Germany,Gummersbach
+639,Germany,Göppingen
+640,Germany,Gütersloh
+641,Germany,Hagen
+642,Germany,Halle
+643,Germany,Hamburg
+644,Germany,Hamelin
+645,Germany,Hamm
+646,Germany,Hanover
+647,Germany,Heidelberg
+648,Germany,Heilbronn
+649,Germany,Herne
+650,Germany,Herzogenaurach
+651,Germany,Hildesheim
+652,Germany,Hof
+653,Germany,Husum
+654,Germany,Ilmenau
+655,Germany,Ingolstadt
+656,Germany,Iserlohn
+657,Germany,Jena
+658,Germany,Kaiserslautern
+659,Germany,Karlsruhe
+660,Germany,Kassel
+661,Germany,Kaufbeuren
+662,Germany,Kempten (Allgäu)
+663,Germany,Kiel
+664,Germany,Kleve
+665,Germany,Koblenz
+666,Germany,Konstanz
+667,Germany,Krefeld
+668,Germany,Lahr
+669,Germany,Landsberg am Lech
+670,Germany,Landshut
+671,Germany,Landstuhl
+672,Germany,Leipzig
+673,Germany,Leonberg
+674,Germany,Leverkusen
+675,Germany,Loerrach (Lorrach)
+676,Germany,Ludwigshafen
+677,Germany,Lübeck
+678,Germany,Lüneburg
+679,Germany,Magdeburg
+680,Germany,Mainz
+681,Germany,Mannheim
+682,Germany,Marburg
+683,Germany,Minden
+684,Germany,Moenchengladbach
+685,Germany,Moers
+686,Germany,Muelheim an der Ruhr
+687,Germany,Munich
+688,Germany,Munster
+689,Germany,Neu-Ulm
+690,Germany,Neuss
+691,Germany,Nidderau
+692,Germany,Nienburg(weser)
+693,Germany,Nuremberg
+694,Germany,Oberhausen
+695,Germany,Offenbach
+696,Germany,Offenbach am Main
+697,Germany,Offenburg
+698,Germany,Oldenburg
+699,Germany,Osnabruck
+700,Germany,Paderborn
+701,Germany,Passau
+702,Germany,Pfaffenhofen an der Ilm
+703,Germany,Pforzheim
+704,Germany,Potsdam
+705,Germany,Ravensburg
+706,Germany,Recklinghausen
+707,Germany,Regensburg
+708,Germany,Remagen
+709,Germany,Remscheid
+710,Germany,Rendsburg
+711,Germany,Reutlingen
+712,Germany,Rosenheim
+713,Germany,Rostock
+714,Germany,Ruesselsheim
+715,Germany,Rüdesheim am Rhein
+716,Germany,Saarbrucken
+717,Germany,Saarlouis
+718,Germany,Schweinfurt
+719,Germany,Schwerin
+720,Germany,Siegen
+721,Germany,Simbach am Inn
+722,Germany,Soest
+723,Germany,Solingen
+724,Germany,Stralsund
+725,Germany,Stuttgart
+726,Germany,Traunstein
+727,Germany,Trier
+728,Germany,Tubingen
+729,Germany,Tuttlingen
+730,Germany,Ulm
+731,Germany,Villingen-Schwenningen
+732,Germany,Wachtersbach
+733,Germany,Wangen im Allgäu
+734,Germany,Weiden I.d.opf.
+735,Germany,"Weimar, Thüringen"
+736,Germany,Wetzlar
+737,Germany,Wiesbaden
+738,Germany,Wilhelmshaven
+739,Germany,Witten
+740,Germany,Wolfenbüttel
+741,Germany,Wolfsburg
+742,Germany,Wuerzburg
+743,Germany,Wuppertal
+744,Germany,Zweibruecken
+745,Germany,Zwickau
+746,Greece,Acharnes (Axarnai)
+747,Greece,Aegiali
+748,Greece,Agios Nikolaos
+749,Greece,Agrinio
+750,Greece,Alexandroupoli
+751,Greece,Argos
+752,Greece,Argostoli
+753,Greece,Argyroupoli
+754,Greece,Aspropyrgos
+755,Greece,Athens
+756,Greece,Ayia Paraskevi
+757,Greece,Chalandri (Halandri)
+758,Greece,Chalcis (Chalkida)
+759,Greece,Chalkidiki
+760,Greece,Chania
+761,Greece,Chios
+762,Greece,Corfu
+763,Greece,Corinth
+764,Greece,Crete
+765,Greece,Drama
+766,Greece,Edessa
+767,Greece,"Eleusina (Elefsis, Eleusis)"
+768,Greece,Farsala
+769,Greece,Florina
+770,Greece,Glyfada
+771,Greece,Heraklion
+772,Greece,Ierapetra
+773,Greece,Igoumenitsa
+774,Greece,Ilion
+775,Greece,Ioannina
+776,Greece,Kalamata
+777,Greece,Karditsa
+778,Greece,Kastoria
+779,Greece,Katerini
+780,Greece,Kavala
+781,Greece,Kefalonia
+782,Greece,Kifissia
+783,Greece,Kilkis
+784,Greece,Komotini
+785,Greece,Kos
+786,Greece,Kozani
+787,Greece,Lamia
+788,Greece,Larissa
+789,Greece,Livadeia
+790,Greece,Marathon
+791,Greece,Melissia
+792,Greece,Mykonos (Mikonos)
+793,Greece,Mytilene
+794,Greece,Nafpaktos
+795,Greece,Nafplion
+796,Greece,Naousa
+797,Greece,Naxos
+798,Greece,Nea Smyrni
+799,Greece,Nikaia
+800,Greece,Orestiada
+801,Greece,"Palaio Faliro, Athens"
+802,Greece,Pallini
+803,Greece,Paros
+804,Greece,Patras
+805,Greece,Peristeri
+806,Greece,Piraeus (Pireas)
+807,Greece,Preveza
+808,Greece,Pyrgos
+809,Greece,Rethymno
+810,Greece,Rhodes
+811,Greece,Salamina
+812,Greece,Samos
+813,Greece,Santorini
+814,Greece,Serrai
+815,Greece,Sparta
+816,Greece,Syros
+817,Greece,Thessaloniki
+818,Greece,Thiva
+819,Greece,Trikala
+820,Greece,Tripolis
+821,Greece,Veria
+822,Greece,Volos
+823,Greece,Vonitsa
+824,Greece,Xanthi
+825,Greece,Zakynthos
+826,Hungary,Ajka
+827,Hungary,Budakeszi
+828,Hungary,Budapest
+829,Hungary,Budaörs (Budaors)
+830,Hungary,Békéscsaba
+831,Hungary,Cegled
+832,Hungary,Csongrad
+833,Hungary,Csorna
+834,Hungary,Dabas
+835,Hungary,Debrecen
+836,Hungary,Dunaföldvár
+837,Hungary,Dunakeszi
+838,Hungary,Dunaujvaros
+839,Hungary,Eger
+840,Hungary,Esztergom
+841,Hungary,Godollo
+842,Hungary,Gyongyos
+843,Hungary,Gyor
+844,Hungary,Heviz
+845,Hungary,Hodmezovasarhely (Hódmezővásárhely)
+846,Hungary,Kalocsa
+847,Hungary,Kaposvár
+848,Hungary,Kecskemet
+849,Hungary,Keszthely
+850,Hungary,Kiskunfélegyháza (Kiskunfelegyhaza)
+851,Hungary,Kisvarda
+852,Hungary,Miskolc
+853,Hungary,Mohacs
+854,Hungary,Nagykanizsa
+855,Hungary,Nyiregyhaza
+856,Hungary,Paks
+857,Hungary,Paszto
+858,Hungary,Pecs
+859,Hungary,Siofok
+860,Hungary,Sopron
+861,Hungary,Szeged
+862,Hungary,Szekesfehervar
+863,Hungary,Szekszard
+864,Hungary,Szentendre
+865,Hungary,Szolnok
+866,Hungary,Szombathely
+867,Hungary,Tamási
+868,Hungary,Tatabanya
+869,Hungary,Vac
+870,Hungary,Veszprem
+871,Hungary,Zalaegerszeg
+872,Hungary,Érd
+873,Hungary,Üröm
+874,Ireland,Arklow
+875,Ireland,Athlone
+876,Ireland,Ballina
+877,Ireland,Ballincollig
+878,Ireland,Blanchardstown
+879,Ireland,Bray
+880,Ireland,Carlow
+881,Ireland,Carrigaline
+882,Ireland,Castlebar
+883,Ireland,Cavan
+884,Ireland,Celbridge
+885,Ireland,Claremorris
+886,Ireland,Clonmel
+887,Ireland,Cork
+888,Ireland,Derry
+889,Ireland,Dingle
+890,Ireland,Donegal
+891,Ireland,Drogheda
+892,Ireland,Dublin
+893,Ireland,Dun Laoghaire
+894,Ireland,Dunboyne
+895,Ireland,Dundalk
+896,Ireland,Ennis
+897,Ireland,Fermoy
+898,Ireland,Galway
+899,Ireland,Greystones
+900,Ireland,Kildare
+901,Ireland,Kilkenny
+902,Ireland,Killarney
+903,Ireland,Leitrim
+904,Ireland,Letterkenny
+905,Ireland,Limerick
+906,Ireland,Listowel
+907,Ireland,Longford
+908,Ireland,Loughrea
+909,Ireland,Malahide
+910,Ireland,Mallow
+911,Ireland,Maynooth
+912,Ireland,Monaghan
+913,Ireland,Mullingar
+914,Ireland,Naas
+915,Ireland,Navan
+916,Ireland,Newbridge
+917,Ireland,Portlaoise
+918,Ireland,Portmarnock
+919,Ireland,Shannon
+920,Ireland,Sligo
+921,Ireland,Swords
+922,Ireland,Tralee
+923,Ireland,Tullamore
+924,Ireland,Waterford
+925,Ireland,Westport
+926,Ireland,Wexford
+927,Ireland,Wicklow
+928,Italy,Abano Terme
+929,Italy,Acqualagna PU
+930,Italy,Agrate Brianza
+931,Italy,Agrigento
+932,Italy,Alassio
+933,Italy,Alba
+934,Italy,Albenga
+935,Italy,Albignasego
+936,Italy,Alessandria
+937,Italy,Alghero
+938,Italy,Altamura
+939,Italy,Altavilla Vicentina
+940,Italy,Amalfi
+941,Italy,Anacapri
+942,Italy,Ancona
+943,Italy,Anzio (Rome)
+944,Italy,Aosta
+945,Italy,Arezzo
+946,Italy,Ariano Irpino
+947,Italy,Arona
+948,Italy,Ascoli Piceno
+949,Italy,Asti
+950,Italy,Avellino
+951,Italy,Aversa
+952,Italy,Avezzano
+953,Italy,Badia Tedalda
+954,Italy,Bari
+955,Italy,Barletta
+956,Italy,Bassano del Grappa
+957,Italy,Belluno
+958,Italy,Benevento
+959,Italy,Bergamo
+960,Italy,Bertinoro
+961,Italy,Biella
+962,Italy,Bologna
+963,Italy,Bolzano-Bozen
+964,Italy,Bra
+965,Italy,Brescia
+966,Italy,Brindisi
+967,Italy,Bruneck (Brunico)
+968,Italy,Buccinasco
+969,Italy,Bucine
+970,Italy,Busto Arsizio
+971,Italy,Cagliari
+972,Italy,Campobasso
+973,Italy,Canosa di Puglia
+974,Italy,Cantù
+975,Italy,Capua
+976,Italy,Carbonia
+977,Italy,Carpegna
+978,Italy,Carpi
+979,Italy,Carrara
+980,Italy,Caserta
+981,Italy,Cassino
+982,Italy,Casteldimezzo
+983,Italy,Castellammare di Stabia
+984,Italy,Castrocaro (Terra del Sole)
+985,Italy,Catania
+986,Italy,Catanzaro
+987,Italy,Cattolica Eraclea
+988,Italy,Cava de’ Tirreni
+989,Italy,Ceglie Messapica
+990,Italy,Cento
+991,Italy,Cesena
+992,Italy,Cesenatico
+993,Italy,Chieti
+994,Italy,Cinqueterre
+995,Italy,Cisterna di Latina
+996,Italy,Citta di Castello
+997,Italy,Civita Castellana
+998,Italy,Civitanova Marche
+999,Italy,Civitavecchia
+1000,Italy,Colleferro
+1001,Italy,Como
+1002,Italy,Conegliano
+1003,Italy,Corleone
+1004,Italy,Cortina d'Ampezzo
+1005,Italy,Cortona
+1006,Italy,Cosenza
+1007,Italy,Crema
+1008,Italy,Cremona
+1009,Italy,Cuneo
+1010,Italy,Domodossola
+1011,Italy,Falconara Marittima
+1012,Italy,Fano
+1013,Italy,Feltre
+1014,Italy,Ferrara
+1015,Italy,Fidenza
+1016,Italy,Finale Emilia
+1017,Italy,Fiumicino
+1018,Italy,Florence
+1019,Italy,Foggia
+1020,Italy,Forli
+1021,Italy,Frascati
+1022,Italy,Frattamaggiore
+1023,Italy,Frosinone
+1024,Italy,Gallarate
+1025,Italy,Gela
+1026,Italy,Genoa
+1027,Italy,Genzano di Roma
+1028,Italy,Gorizia
+1029,Italy,Grosseto
+1030,Italy,Gualdo Tadino
+1031,Italy,Iglesias
+1032,Italy,Imola
+1033,Italy,Imperia
+1034,Italy,Jesi
+1035,Italy,L'Aquila
+1036,Italy,La Spezia
+1037,Italy,Lamezia Terme
+1038,Italy,Latina
+1039,Italy,Lecce
+1040,Italy,Lecco
+1041,Italy,Leggiuno
+1042,Italy,Leghorn
+1043,Italy,Legnano
+1044,Italy,Levanto
+1045,Italy,Lipari
+1046,Italy,Livigno
+1047,Italy,Livorno
+1048,Italy,Lizzano
+1049,Italy,Lodi
+1050,Italy,Lucca
+1051,Italy,Macerata
+1052,Italy,Magenta
+1053,Italy,Manfredonia
+1054,Italy,Mantova
+1055,Italy,Massa
+1056,Italy,Matera
+1057,Italy,Melito di Porto Salvo
+1058,Italy,Messina
+1059,Italy,Mestre
+1060,Italy,Milan
+1061,Italy,Mirano
+1062,Italy,Modena
+1063,Italy,Montalto Dora
+1064,Italy,Monte Argentario
+1065,Italy,Montecatini Terme
+1066,Italy,Montegalda
+1067,Italy,Monticchiello
+1068,Italy,Monza
+1069,Italy,Morgex
+1070,Italy,Naples
+1071,Italy,Novara
+1072,Italy,Noventa di Piave
+1073,Italy,Nuoro
+1074,Italy,Olbia
+1075,Italy,Oristano
+1076,Italy,Ostia
+1077,Italy,Ovieto
+1078,Italy,Padova
+1079,Italy,Palazzo San Gervasio
+1080,Italy,Palermo
+1081,Italy,Parma
+1082,Italy,Pavia
+1083,Italy,Perugia
+1084,Italy,Pesaro
+1085,Italy,Pescara
+1086,Italy,Piacenza
+1087,Italy,Pianello Val Tidone
+1088,Italy,Piano di Sorrento
+1089,Italy,Pinerolo
+1090,Italy,Pisa
+1091,Italy,Pistoia
+1092,Italy,Pomezia
+1093,Italy,Pordenone
+1094,Italy,Porto San Giorgio
+1095,Italy,Porto Viro
+1096,Italy,Pozzuoli
+1097,Italy,Prato
+1098,Italy,Ragusa
+1099,Italy,Ravenna
+1100,Italy,Reggio Di Calabria
+1101,Italy,Reggio Nell'emilia
+1102,Italy,Rieti
+1103,Italy,Rimini
+1104,Italy,Rocca di Cambio
+1105,Italy,Rome
+1106,Italy,Salerno
+1107,Italy,San Donà di Piave
+1108,Italy,San Giovanni Rotondo
+1109,Italy,San Marco Argentano
+1110,Italy,San Martino in Rio
+1111,Italy,Sanremo
+1112,Italy,Santa Margherita Ligure
+1113,Italy,Santa Maria Capua Vetere
+1114,Italy,Saronno
+1115,Italy,Sassari
+1116,Italy,Sassuolo
+1117,Italy,Savigliano
+1118,Italy,Savona
+1119,Italy,Scalea
+1120,Italy,Schio
+1121,Italy,Senigallia
+1122,Italy,Seregno
+1123,Italy,Siena
+1124,Italy,Siniscola
+1125,Italy,Siracusa
+1126,Italy,Sondrio
+1127,Italy,Sora
+1128,Italy,Stradella
+1129,Italy,Taglio di Po (Rovigo)
+1130,Italy,Taranto
+1131,Italy,Teramo
+1132,Italy,Terni
+1133,Italy,Terracina
+1134,Italy,Torbole
+1135,Italy,Tortona
+1136,Italy,Trani
+1137,Italy,Trapani
+1138,Italy,Trento
+1139,Italy,Treviglio
+1140,Italy,Treviso
+1141,Italy,Trieste
+1142,Italy,Trinitapoli
+1143,Italy,Turin
+1144,Italy,Udine
+1145,Italy,Varazze
+1146,Italy,Varese
+1147,Italy,Vasto
+1148,Italy,Veneto
+1149,Italy,Venice
+1150,Italy,Ventimiglia
+1151,Italy,Verbania
+1152,Italy,Vercelli
+1153,Italy,Verona
+1154,Italy,Viareggio
+1155,Italy,Vicenza
+1156,Italy,Villacidro
+1157,Italy,Viterbo
+1158,Italy,Voghera
+1159,Italy,Zambrone
+1160,Kosovo,Gjilan (Gnjilane)
+1161,Kosovo,Pec (Peja)
+1162,Kosovo,Podujevo (Podujeva)
+1163,Kosovo,Pristina
+1164,Kosovo,Prizren
+1165,Latvia,Ainazi
+1166,Latvia,Auce
+1167,Latvia,Cesis
+1168,Latvia,Daugavpils
+1169,Latvia,Dobele
+1170,Latvia,Gulbene
+1171,Latvia,Jekabpils
+1172,Latvia,Jelgava
+1173,Latvia,Jurmala
+1174,Latvia,Liepaja
+1175,Latvia,Livani
+1176,Latvia,Madona
+1177,Latvia,Mazsalaca
+1178,Latvia,Ogre
+1179,Latvia,Olaine
+1180,Latvia,Rezekne
+1181,Latvia,Riga
+1182,Latvia,Saldus
+1183,Latvia,Talsi
+1184,Latvia,Tukums
+1185,Latvia,Valmiera
+1186,Latvia,Ventspils
+1187,Lithuania,Alytus
+1188,Lithuania,Druskininkai
+1189,Lithuania,Elektrenai
+1190,Lithuania,Garliava
+1191,Lithuania,Jonava
+1192,Lithuania,Jurbarkas
+1193,Lithuania,Kaunas
+1194,Lithuania,Kedainiai
+1195,Lithuania,Klaipeda
+1196,Lithuania,Kretinga
+1197,Lithuania,Marijampole
+1198,Lithuania,Palanga
+1199,Lithuania,Panevezys
+1200,Lithuania,Plunge
+1201,Lithuania,Raseiniai
+1202,Lithuania,Siauliai
+1203,Lithuania,Telsiai
+1204,Lithuania,Ukmerge
+1205,Lithuania,Utena
+1206,Lithuania,Vilkaviskis
+1207,Lithuania,Vilnius
+1208,Lithuania,Visaginas
+1209,Moldova,Balti
+1210,Moldova,Bender
+1211,Moldova,Cahul
+1212,Moldova,Calarasi
+1213,Moldova,Chisinau
+1214,Moldova,Ciuciuleni
+1215,Moldova,Cricova
+1216,Moldova,Dubasari
+1217,Moldova,Glodeni
+1218,Moldova,Orhei
+1219,Moldova,Slobozia
+1220,Moldova,Soroca
+1221,Moldova,Taraclia
+1222,Moldova,Tiraspol
+1223,Moldova,Ungheni
+1224,Moldova,Vulcanesti
+1225,Netherlands,'s-Hertogenbosch
+1226,Netherlands,Alkmaar
+1227,Netherlands,Almelo
+1228,Netherlands,Almere
+1229,Netherlands,Amersfoort
+1230,Netherlands,Amstelveen
+1231,Netherlands,Amsterdam
+1232,Netherlands,Apeldoorn
+1233,Netherlands,Arnhem
+1234,Netherlands,Bergen op Zoom
+1235,Netherlands,Best
+1236,Netherlands,Beverwijk
+1237,Netherlands,Blaricum
+1238,Netherlands,Borculo
+1239,Netherlands,Breda
+1240,Netherlands,Bussum
+1241,Netherlands,Culemborg
+1242,Netherlands,Delft
+1243,Netherlands,Den Helder
+1244,Netherlands,Deventer
+1245,Netherlands,Dordrecht
+1246,Netherlands,Drachten
+1247,Netherlands,Ede
+1248,Netherlands,Eindhoven
+1249,Netherlands,Emmen
+1250,Netherlands,Enschede
+1251,Netherlands,Etten-Leur
+1252,Netherlands,Geleen
+1253,Netherlands,Goes
+1254,Netherlands,Gouda
+1255,Netherlands,Groningen
+1256,Netherlands,Haarlem
+1257,Netherlands,Halle
+1258,Netherlands,Heerlen
+1259,Netherlands,Hengelo
+1260,Netherlands,Hilversum
+1261,Netherlands,Hoofddorp
+1262,Netherlands,Huizen
+1263,Netherlands,Ijmuiden
+1264,Netherlands,Leeuwarden
+1265,Netherlands,Leiden
+1266,Netherlands,Lelystad
+1267,Netherlands,Lisse
+1268,Netherlands,Maastricht
+1269,Netherlands,Middelburg
+1270,Netherlands,Nijmegen
+1271,Netherlands,Oegstgeest
+1272,Netherlands,Oostrewolde
+1273,Netherlands,Purmerend
+1274,Netherlands,Rijswijk
+1275,Netherlands,Roermond
+1276,Netherlands,Rotterdam
+1277,Netherlands,Schiedam
+1278,Netherlands,Sittard
+1279,Netherlands,Spakenburg
+1280,Netherlands,Spijkenisee
+1281,Netherlands,The Hague (Den Haag)
+1282,Netherlands,Tiel
+1283,Netherlands,Tilburg
+1284,Netherlands,Utrecht
+1285,Netherlands,Valkenburg
+1286,Netherlands,Veenendaal
+1287,Netherlands,Veldhoven
+1288,Netherlands,Venlo
+1289,Netherlands,Vlissingen
+1290,Netherlands,Voerendaal
+1291,Netherlands,Voorburg
+1292,Netherlands,Wageningen
+1293,Netherlands,Zaandam
+1294,Netherlands,Zandvoort
+1295,Netherlands,Zeist
+1296,Netherlands,Zoetermeer
+1297,Netherlands,Zutphen
+1298,Netherlands,Zwolle
+1299,North Macedonia,Bitola
+1300,North Macedonia,Delcevo
+1301,North Macedonia,Gevgelija
+1302,North Macedonia,Gostivar
+1303,North Macedonia,Kavadarci
+1304,North Macedonia,Kicevo
+1305,North Macedonia,Kocani
+1306,North Macedonia,Kriva Palanka
+1307,North Macedonia,Kumanovo
+1308,North Macedonia,Ohrid
+1309,North Macedonia,Prilep
+1310,North Macedonia,Radovis
+1311,North Macedonia,Resen
+1312,North Macedonia,Skopje
+1313,North Macedonia,Stip
+1314,North Macedonia,Struga
+1315,North Macedonia,Strumica
+1316,North Macedonia,Sveti Nikole
+1317,North Macedonia,Tetovo
+1318,North Macedonia,Veles
+1319,Norway,Alesund
+1320,Norway,Arendal
+1321,Norway,Asker
+1322,Norway,Askim
+1323,Norway,Baerum
+1324,Norway,Bergen
+1325,Norway,Bodo
+1326,Norway,Drammen
+1327,Norway,Drobak
+1328,Norway,Egersund
+1329,Norway,Elverum
+1330,Norway,Farsund
+1331,Norway,Fredrikstad
+1332,Norway,Geilo
+1333,Norway,Gjovik
+1334,Norway,Grimstad
+1335,Norway,Halden
+1336,Norway,Hamar
+1337,Norway,Harstad
+1338,Norway,Haugesund
+1339,Norway,Holmestrand
+1340,Norway,Horten
+1341,Norway,Jessheim
+1342,Norway,Karmøy
+1343,Norway,Kirkenes
+1344,Norway,Kongsberg
+1345,Norway,Kristiansand
+1346,Norway,Kristiansund
+1347,Norway,Larvik
+1348,Norway,Lillehammer
+1349,Norway,Lillestrom
+1350,Norway,Longyearbyen
+1351,Norway,Mandal
+1352,Norway,Mo i Rana
+1353,Norway,Molde
+1354,Norway,Moss
+1355,Norway,Narvik
+1356,Norway,Oslo
+1357,Norway,Porsgrunn
+1358,Norway,Sandefjord
+1359,Norway,Sandnes
+1360,Norway,Sandvika
+1361,Norway,Sarpsborg
+1362,Norway,Ski
+1363,Norway,Skien
+1364,Norway,Stavanger
+1365,Norway,Steinkjer
+1366,Norway,Stokke
+1367,Norway,Stokmarknes
+1368,Norway,Storslett
+1369,Norway,Tonsberg
+1370,Norway,Tromso
+1371,Norway,Trondheim
+1372,Norway,Ulsteinvik
+1373,Norway,Åndalsnes
+1374,Poland,Augustow
+1375,Poland,Bedzin
+1376,Poland,Bialystok
+1377,Poland,Bielsko-biala
+1378,Poland,Boleslawiec
+1379,Poland,Bydgoszcz
+1380,Poland,Bytom
+1381,Poland,Chorzow
+1382,Poland,Chrzanow
+1383,Poland,Czestochowa
+1384,Poland,Dabrowa Gornicza
+1385,Poland,Elblag
+1386,Poland,Elk (Ełk)
+1387,Poland,Gdansk
+1388,Poland,Gdynia
+1389,Poland,Gizycko
+1390,Poland,Gliwice
+1391,Poland,Gniezno
+1392,Poland,Gorzow Wielkopolski
+1393,Poland,Grodzisk Mazowiecki
+1394,Poland,Grudziadz
+1395,Poland,Jarocin
+1396,Poland,Jastrzebie-zdroj
+1397,Poland,Jelenia Gora
+1398,Poland,Kalisz
+1399,Poland,Katowice
+1400,Poland,Kielce
+1401,Poland,Kolobrzeg
+1402,Poland,Konin
+1403,Poland,Koszalin
+1404,Poland,Krakow (Cracow)
+1405,Poland,Krosno
+1406,Poland,Krotoszyn
+1407,Poland,Legnica
+1408,Poland,Leszno
+1409,Poland,Lodz
+1410,Poland,Lomza
+1411,Poland,Lublin
+1412,Poland,Lubliniec
+1413,Poland,Minsk Mazowiecki
+1414,Poland,Mlava
+1415,Poland,Mrągowo
+1416,Poland,Nowy Sacz
+1417,Poland,Olsztyn
+1418,Poland,Opole
+1419,Poland,Pabianice
+1420,Poland,Pila
+1421,Poland,Piotrkow Trybunalski
+1422,Poland,Plock
+1423,Poland,Poznan
+1424,Poland,Prudnik
+1425,Poland,Radom
+1426,Poland,Rawa Mazowiecka
+1427,Poland,Ruda Slaska (Ruda Śląska)
+1428,Poland,Rumia
+1429,Poland,Rybnik
+1430,Poland,Rzeszow
+1431,Poland,Siedlce
+1432,Poland,Slupsk
+1433,Poland,Sochaczew
+1434,Poland,Sopot
+1435,Poland,Sosnowiec
+1436,Poland,Starogard Gdanski
+1437,Poland,Suwalki
+1438,Poland,Swidnica
+1439,Poland,Swinoujscie
+1440,Poland,Szamotuly (Szamotuły)
+1441,Poland,Szczecin
+1442,Poland,Szczecinek
+1443,Poland,Tarnow
+1444,Poland,Tarnowskie Góry
+1445,Poland,Torun
+1446,Poland,Tychy
+1447,Poland,Wadowice
+1448,Poland,Walbrzych
+1449,Poland,Warsaw
+1450,Poland,Wejherowo
+1451,Poland,Wloclawek
+1452,Poland,Wroclaw
+1453,Poland,Wyszkow
+1454,Poland,Zabrze
+1455,Poland,Zakopane
+1456,Poland,Zamosc
+1457,Poland,Zawiercie
+1458,Poland,Zdunska Wola
+1459,Poland,Zgorzelec
+1460,Poland,Zielona Gora
+1461,Poland,Świebodzice
+1462,Poland,Żyrardów
+1463,Portugal,Abrantes
+1464,Portugal,Albufeira
+1465,Portugal,Alcabideche
+1466,Portugal,Alcobaça
+1467,Portugal,Algarve
+1468,Portugal,Alges
+1469,Portugal,Almada
+1470,Portugal,Almancil
+1471,Portugal,Alverca do Ribatejo
+1472,Portugal,Amadora
+1473,Portugal,Amarante
+1474,Portugal,Amora
+1475,Portugal,Angra do Heroismo
+1476,Portugal,Aveiro
+1477,Portugal,Barcelos
+1478,Portugal,Barreiro
+1479,Portugal,Braga
+1480,Portugal,Braganca
+1481,Portugal,Caldas da Rainha
+1482,Portugal,Caminha
+1483,Portugal,Carvoiero
+1484,Portugal,Cascais
+1485,Portugal,Castelo Branco
+1486,Portugal,Chaves
+1487,Portugal,Coimbra
+1488,Portugal,Corroios
+1489,Portugal,Covilha
+1490,Portugal,Ericeira
+1491,Portugal,Ermesinde
+1492,Portugal,Evora
+1493,Portugal,Faro
+1494,Portugal,Figueira da Foz
+1495,Portugal,Funchal
+1496,Portugal,Guarda
+1497,Portugal,Guimaraes
+1498,Portugal,Horta
+1499,Portugal,Lagos
+1500,Portugal,Leiria
+1501,Portugal,Lisbon
+1502,Portugal,Loures
+1503,Portugal,Lousã
+1504,Portugal,Maia
+1505,Portugal,Marinha Grande
+1506,Portugal,Matosinhos
+1507,Portugal,Moita
+1508,Portugal,Montijo
+1509,Portugal,Odivelas
+1510,Portugal,Oeiras
+1511,Portugal,Penafiel
+1512,Portugal,Peniche
+1513,Portugal,Pinhal Novo
+1514,Portugal,Ponta Delgada
+1515,Portugal,Portalegre
+1516,Portugal,Portimao
+1517,Portugal,Porto
+1518,Portugal,Quarteira
+1519,Portugal,Queluz
+1520,Portugal,Rio Tinto
+1521,Portugal,Rio de Mouro
+1522,Portugal,Santarem
+1523,Portugal,Sao Joao da Madeira
+1524,Portugal,Seixal
+1525,Portugal,Sesimbra
+1526,Portugal,Setubal
+1527,Portugal,Tavira
+1528,Portugal,Tomar
+1529,Portugal,Torres Vedras
+1530,Portugal,Viana do Castelo
+1531,Portugal,Vila Franca de Xira
+1532,Portugal,Vila Nova de Famalicao
+1533,Portugal,Vila Nova de Gaia
+1534,Portugal,Vila Real
+1535,Portugal,Vila do Conde
+1536,Portugal,Vilamoura
+1537,Portugal,Viseu
+1538,Romania,Alba Iulia
+1539,Romania,Alexandria
+1540,Romania,Arad
+1541,Romania,Bacau
+1542,Romania,Baia Mare
+1543,Romania,Baia Sprie
+1544,Romania,Barlad
+1545,Romania,Bistrita
+1546,Romania,Bolintin-Vale
+1547,Romania,Botosani
+1548,Romania,Bragadiru
+1549,Romania,Braila
+1550,Romania,Brasov
+1551,Romania,Bucharest
+1552,Romania,Buzau
+1553,Romania,Buzias
+1554,Romania,Calafat
+1555,Romania,Calarasi
+1556,Romania,Campina
+1557,Romania,Carei
+1558,Romania,Cluj-Napoca
+1559,Romania,Constanta
+1560,Romania,Craiova
+1561,Romania,Cugir
+1562,Romania,Dealu
+1563,Romania,Deva
+1564,Romania,Dorohoi
+1565,Romania,Drobeta-Turnu Severin
+1566,Romania,Fieni
+1567,Romania,Focsani
+1568,Romania,Galati
+1569,Romania,Giurgiu
+1570,Romania,Hunedoara
+1571,Romania,Iasi
+1572,Romania,Iernut
+1573,Romania,Lehliu Gara
+1574,Romania,Lugoj
+1575,Romania,Mangalia
+1576,Romania,Medias (Mediaș)
+1577,Romania,Miercurea Ciuc
+1578,Romania,Miroslava
+1579,Romania,Odorheiu Secuiesc
+1580,Romania,Onesti
+1581,Romania,Oradea
+1582,Romania,Otopeni
+1583,Romania,Pascani
+1584,Romania,Petrosani
+1585,Romania,Piatra Neamt
+1586,Romania,Pitesti
+1587,Romania,Ploiesti
+1588,Romania,Ramnicu Sarat
+1589,Romania,Ramnicu Valcea
+1590,Romania,Reghin
+1591,Romania,Resita
+1592,Romania,Roman
+1593,Romania,Râșnov
+1594,Romania,Sannicolau Mare
+1595,Romania,Satu Mare
+1596,Romania,Sfantu Gheorghe
+1597,Romania,Sibiu
+1598,Romania,Sighetu Marmatiei
+1599,Romania,Sighisoara
+1600,Romania,Sinaia
+1601,Romania,Slatina
+1602,Romania,Slobozia
+1603,Romania,Suceava
+1604,Romania,Targoviste
+1605,Romania,Targu Frumos
+1606,Romania,Targu Jiu (Tirgu Jiu)
+1607,Romania,Targu Mures
+1608,Romania,Timisoara
+1609,Romania,Tulcea
+1610,Romania,Turda
+1611,Romania,Vaslui
+1612,Romania,Vatra Dornei
+1613,Romania,Zalau
+1614,Romania,Zărnești
+1615,Serbia,Aleksinac
+1616,Serbia,Bačka Palanka
+1617,Serbia,Belgrade
+1618,Serbia,Cacak
+1619,Serbia,Gornji Milanovac
+1620,Serbia,Indjija
+1621,Serbia,Ivanjica
+1622,Serbia,Jagodina
+1623,Serbia,Kikinda
+1624,Serbia,Kragujevac
+1625,Serbia,Kraljevo
+1626,Serbia,Krusevac
+1627,Serbia,Leskovac
+1628,Serbia,Loznica
+1629,Serbia,Lugavcina
+1630,Serbia,Nis
+1631,Serbia,Novi Pazar
+1632,Serbia,Novi Sad
+1633,Serbia,Pancevo
+1634,Serbia,Pirot
+1635,Serbia,Pozarevac
+1636,Serbia,Prokuplje
+1637,Serbia,Sabac
+1638,Serbia,Senta
+1639,Serbia,Smederevo
+1640,Serbia,Sombor
+1641,Serbia,Sremska Mitrovica
+1642,Serbia,Stara Pazova
+1643,Serbia,Subotica
+1644,Serbia,Titel
+1645,Serbia,Uzice
+1646,Serbia,Valjevo
+1647,Serbia,Vranje
+1648,Serbia,Vrsac
+1649,Serbia,Zajecar
+1650,Serbia,Zrenjanin
+1651,Slovakia,Banovce nad Bebravou
+1652,Slovakia,Banska Bystrica
+1653,Slovakia,Bardejov
+1654,Slovakia,Bratislava
+1655,Slovakia,Cadca
+1656,Slovakia,Dubnica nad Vahom
+1657,Slovakia,Dunajska Streda
+1658,Slovakia,Filakovo
+1659,Slovakia,Hlohovec
+1660,Slovakia,Kosice
+1661,Slovakia,Levice
+1662,Slovakia,Liptovsky Mikulas
+1663,Slovakia,Lucenec
+1664,Slovakia,Martin
+1665,Slovakia,Michalovce
+1666,Slovakia,Myjava
+1667,Slovakia,Nitra
+1668,Slovakia,Nove Mesto nad Vahom
+1669,Slovakia,Nove Zamky
+1670,Slovakia,Pezinok
+1671,Slovakia,Piestany
+1672,Slovakia,Poprad
+1673,Slovakia,Presov
+1674,Slovakia,Prievidza
+1675,Slovakia,Rajecke Teplice
+1676,Slovakia,Revuca
+1677,Slovakia,Rožňava
+1678,Slovakia,Ruzomberok
+1679,Slovakia,Sala
+1680,Slovakia,Senica
+1681,Slovakia,Spisska Nova Ves
+1682,Slovakia,Topolcany
+1683,Slovakia,Trebišov
+1684,Slovakia,Trencin
+1685,Slovakia,Trnava
+1686,Slovakia,Velky Krtis
+1687,Slovakia,Vranov Nad Toplou
+1688,Slovakia,Ziar Nad Hronom
+1689,Slovakia,Zilina
+1690,Slovakia,Zvolen
+1691,Slovenia,Bled
+1692,Slovenia,Celje
+1693,Slovenia,Cerkno
+1694,Slovenia,Crnomelj
+1695,Slovenia,Domzale
+1696,Slovenia,Grosuplje
+1697,Slovenia,Izola
+1698,Slovenia,Kamnik
+1699,Slovenia,Kocevje
+1700,Slovenia,Koper
+1701,Slovenia,Kranj
+1702,Slovenia,Krsko
+1703,Slovenia,Ljubljana
+1704,Slovenia,Logatec
+1705,Slovenia,Maribor
+1706,Slovenia,Murska Sobota
+1707,Slovenia,Nova Gorica
+1708,Slovenia,Novo Mesto
+1709,Slovenia,Piran
+1710,Slovenia,Portoroz
+1711,Slovenia,Postojna
+1712,Slovenia,Ptuj
+1713,Slovenia,Radovljica
+1714,Slovenia,Ravne
+1715,Slovenia,Ravne na Koroškem
+1716,Slovenia,Sezana
+1717,Slovenia,Slovenj Gradec
+1718,Slovenia,Slovenska Bistrica
+1719,Slovenia,Tolmin
+1720,Slovenia,Trbovlje
+1721,Slovenia,Trzic
+1722,Slovenia,Velenje
+1723,Slovenia,Vrhnika
+1724,Slovenia,Zagorje ob Savi
+1725,Slovenia,Šentjur
+1726,Slovenia,Škofja Loka
+1727,Slovenia,Žalec
+1728,Spain,Albacete
+1729,Spain,Albox
+1730,Spain,Alcala de Guadaira
+1731,Spain,Alcala de Henares
+1732,Spain,Alcala la Real
+1733,Spain,Alcorcón
+1734,Spain,Algeciras
+1735,Spain,Alicante
+1736,Spain,Almeria
+1737,Spain,Almunecar
+1738,Spain,Alzira
+1739,Spain,Antequera
+1740,Spain,Aranjuez
+1741,Spain,Arrecife
+1742,Spain,Avila
+1743,Spain,Aviles
+1744,Spain,Badajoz
+1745,Spain,Badalona
+1746,Spain,Barakaldo
+1747,Spain,Barcelona
+1748,Spain,Benalmadena
+1749,Spain,Benidorm
+1750,Spain,Bilbao
+1751,Spain,Burgos
+1752,Spain,Caceres
+1753,Spain,Cadiz
+1754,Spain,Calella
+1755,Spain,Caleta de Fuste
+1756,Spain,Calp (Calpe)
+1757,Spain,Cambrils
+1758,Spain,Canary Islands
+1759,Spain,Cartagena
+1760,Spain,Castelldefels
+1761,Spain,Castello de la Plana
+1762,Spain,Ceuta
+1763,Spain,Chiclana de la Frontera
+1764,Spain,Ciudad Real
+1765,Spain,Cordoba
+1766,Spain,Cornella de Llobregat
+1767,Spain,Corralejo
+1768,Spain,Corunna
+1769,Spain,Cuenca
+1770,Spain,Cuevas del Almanzora
+1771,Spain,Denia
+1772,Spain,Dos Hermanas
+1773,Spain,El Campello
+1774,Spain,El Ejido
+1775,Spain,Elche
+1776,Spain,Estepona
+1777,Spain,Ferrol
+1778,Spain,Figueres
+1779,Spain,Fuengirola
+1780,Spain,Fuenlabrada
+1781,Spain,Gandia
+1782,Spain,Getafe
+1783,Spain,Gijon
+1784,Spain,Girona
+1785,Spain,Granada
+1786,Spain,Guadalajara
+1787,Spain,Huelva
+1788,Spain,Huesca
+1789,Spain,Ibiza
+1790,Spain,Jaen
+1791,Spain,Javea (Xabia)
+1792,Spain,Jerez de la Frontera
+1793,Spain,L'Hospitalet de Llobregat
+1794,Spain,La Linea de la Concepcion
+1795,Spain,La Moraleja
+1796,Spain,La Vall d'Uixó
+1797,Spain,Las Palmas de Gran Canaria
+1798,Spain,Leon
+1799,Spain,Lerida (Lleida)
+1800,Spain,Lloret de Mar
+1801,Spain,Logroño (Logrono)
+1802,Spain,Lugo
+1803,Spain,Madrid
+1804,Spain,Malaga
+1805,Spain,Manresa
+1806,Spain,Marbella
+1807,Spain,Maspalomas
+1808,Spain,Mataro
+1809,Spain,Mazarron
+1810,Spain,Medina del Campo
+1811,Spain,Murcia
+1812,Spain,Novelda
+1813,Spain,Ontinyent
+1814,Spain,Ourense (Ourense)
+1815,Spain,Oviedo
+1816,Spain,Palencia
+1817,Spain,Palma de Mallorca
+1818,Spain,Pamplona
+1819,Spain,Plasencia
+1820,Spain,Pontevedra
+1821,Spain,Pozuelo de Alarcon
+1822,Spain,Puerto Rico
+1823,Spain,Puerto de la Cruz
+1824,Spain,Puerto del Rosario
+1825,Spain,Puertollano
+1826,Spain,Rincon de la Victoria
+1827,Spain,Ronda
+1828,Spain,Roquetas de Mar
+1829,Spain,Rota
+1830,Spain,Sabadell
+1831,Spain,Sagunto
+1832,Spain,Salamanca
+1833,Spain,San Sebastian
+1834,Spain,Santa Cruz de La Palma
+1835,Spain,Santa Cruz de Tenerife
+1836,Spain,Santander
+1837,Spain,Santiago de Compostela
+1838,Spain,Segovia
+1839,Spain,Seville (Sevilla)
+1840,Spain,Sitges
+1841,Spain,Soria
+1842,Spain,Sotogrande
+1843,Spain,Tarragona
+1844,Spain,Terrassa
+1845,Spain,Toledo
+1846,Spain,Torrejón de Ardoz
+1847,Spain,Torremolinos
+1848,Spain,Torrevieja
+1849,Spain,Totana
+1850,Spain,Tres Cantos
+1851,Spain,Valencia
+1852,Spain,Valladolid
+1853,Spain,Vic
+1854,Spain,Vigo
+1855,Spain,Vilagarcia de Arousa
+1856,Spain,Vilanova i la Geltru
+1857,Spain,Vinaros
+1858,Spain,Vitoria-Gasteiz
+1859,Spain,Zaragoza (Saragossa)
+1860,Sweden,Akersberga
+1861,Sweden,Almhult
+1862,Sweden,Angelholm (Ängelholm)
+1863,Sweden,Boden
+1864,Sweden,Boras
+1865,Sweden,Borlange
+1866,Sweden,Botkyrka
+1867,Sweden,Eskilstuna
+1868,Sweden,Fagersta
+1869,Sweden,Falun
+1870,Sweden,Gavle
+1871,Sweden,Gothenburg
+1872,Sweden,Hagfors
+1873,Sweden,Halmstad
+1874,Sweden,Haparanda
+1875,Sweden,Helsingborg
+1876,Sweden,Hultsfred
+1877,Sweden,Härnösand
+1878,Sweden,Hässleholm
+1879,Sweden,Höllviken
+1880,Sweden,Jonkoping
+1881,Sweden,Kalix
+1882,Sweden,Kalmar
+1883,Sweden,Karlskrona
+1884,Sweden,Karlstad
+1885,Sweden,Kiruna
+1886,Sweden,Kristianstad
+1887,Sweden,Landskrona
+1888,Sweden,Lerum
+1889,Sweden,Lindesberg
+1890,Sweden,Linkoping
+1891,Sweden,Ludvika
+1892,Sweden,Lulea
+1893,Sweden,Lund
+1894,Sweden,Malmo
+1895,Sweden,Marsta (Sigtuna)
+1896,Sweden,Mora
+1897,Sweden,Mölndal
+1898,Sweden,Norrkoping
+1899,Sweden,Nyköping
+1900,Sweden,Orebro
+1901,Sweden,Ornskoldsvik
+1902,Sweden,Ostersund (Östersund)
+1903,Sweden,Sala
+1904,Sweden,Skara
+1905,Sweden,Skelleftea
+1906,Sweden,Skovde
+1907,Sweden,Sodertalje
+1908,Sweden,Sollentuna
+1909,Sweden,Solna
+1910,Sweden,Staffanstorp
+1911,Sweden,Stenungsund
+1912,Sweden,Stockholm
+1913,Sweden,Sundbyberg
+1914,Sweden,Sundsvall
+1915,Sweden,Taby
+1916,Sweden,Trollhattan
+1917,Sweden,Tumba
+1918,Sweden,Uddevalla
+1919,Sweden,Umea
+1920,Sweden,Uppsala
+1921,Sweden,Varberg
+1922,Sweden,Varnamo
+1923,Sweden,Vasteras
+1924,Sweden,Vaxjo
+1925,Sweden,Visby
+1926,Sweden,Ystad
+1927,Sweden,Åtvidaberg
+1928,Switzerland,Aarau
+1929,Switzerland,Acquarossa
+1930,Switzerland,Affoltern am Albis
+1931,Switzerland,Agno
+1932,Switzerland,Aigle
+1933,Switzerland,Airolo
+1934,Switzerland,Arbon
+1935,Switzerland,Ascona
+1936,Switzerland,Aubonne
+1937,Switzerland,Baar
+1938,Switzerland,Baden
+1939,Switzerland,Basel
+1940,Switzerland,Bellinzona
+1941,Switzerland,Bern
+1942,Switzerland,Biasca
+1943,Switzerland,Biel
+1944,Switzerland,Brissago
+1945,Switzerland,Buchs
+1946,Switzerland,Buochs
+1947,Switzerland,Cham
+1948,Switzerland,Chur
+1949,Switzerland,Crans-Montana
+1950,Switzerland,Delemont
+1951,Switzerland,Dietikon
+1952,Switzerland,Dubendorf
+1953,Switzerland,Frauenfeld
+1954,Switzerland,Fribourg
+1955,Switzerland,Geneva
+1956,Switzerland,Giubiasco
+1957,Switzerland,Glarus
+1958,Switzerland,Hirschthal
+1959,Switzerland,Interlaken
+1960,Switzerland,Kriens
+1961,Switzerland,La Chaux-de-Fonds
+1962,Switzerland,Lachen SZ
+1963,Switzerland,Lancy
+1964,Switzerland,Langenthal
+1965,Switzerland,Lausanne
+1966,Switzerland,Liestal
+1967,Switzerland,Locarno
+1968,Switzerland,Lucerne
+1969,Switzerland,Lugano
+1970,Switzerland,Martigny
+1971,Switzerland,Meilen
+1972,Switzerland,Mendrisio
+1973,Switzerland,Montreux
+1974,Switzerland,Muralto
+1975,Switzerland,Münchwilen
+1976,Switzerland,Naters
+1977,Switzerland,Neuchatel
+1978,Switzerland,Neuhausen
+1979,Switzerland,Nyon
+1980,Switzerland,Olten
+1981,Switzerland,Pfaffikon
+1982,Switzerland,Rapperswil
+1983,Switzerland,Rheinfelden
+1984,Switzerland,Riehen
+1985,Switzerland,Rolle
+1986,Switzerland,Schaffhausen
+1987,Switzerland,Schwyz
+1988,Switzerland,Sion
+1989,Switzerland,Solothurn
+1990,Switzerland,St. Gallen
+1991,Switzerland,St. Moritz
+1992,Switzerland,Stabio
+1993,Switzerland,Staefa (Stäfa)
+1994,Switzerland,Thun
+1995,Switzerland,Turgi
+1996,Switzerland,Uster
+1997,Switzerland,Uzwil
+1998,Switzerland,Verbier
+1999,Switzerland,Vernier
+2000,Switzerland,Vevey
+2001,Switzerland,Visp
+2002,Switzerland,Vouvry
+2003,Switzerland,Wil
+2004,Switzerland,Wildhaus
+2005,Switzerland,Winterthur
+2006,Switzerland,Yens
+2007,Switzerland,Yverdon-les-Bains
+2008,Switzerland,Zermatt
+2009,Switzerland,Zuchwil
+2010,Switzerland,Zug
+2011,Switzerland,Zurich
+2012,Ukraine,Bila Tserkva
+2013,Ukraine,Brovary
+2014,Ukraine,Bucha
+2015,Ukraine,Cherkasy
+2016,Ukraine,Chernihiv
+2017,Ukraine,Chernivtsi
+2018,Ukraine,Debaltseve
+2019,Ukraine,Dnipro
+2020,Ukraine,Donetsk
+2021,Ukraine,Drohobych
+2022,Ukraine,Eupatoria
+2023,Ukraine,Horishni Plavni
+2024,Ukraine,Irpin
+2025,Ukraine,Ivano-Frankivsk
+2026,Ukraine,Izmail
+2027,Ukraine,Kerch
+2028,Ukraine,Kharkiv
+2029,Ukraine,Kherson
+2030,Ukraine,Khmelnytskyi
+2031,Ukraine,Kiev (Kyiv)
+2032,Ukraine,Kolomyia (Kolomyya)
+2033,Ukraine,Kostiantynivka
+2034,Ukraine,Kremenchuk
+2035,Ukraine,Kremenets
+2036,Ukraine,Kropyvnytskyi (Kirovohrad)
+2037,Ukraine,Kryvyy Rih
+2038,Ukraine,Lugansk
+2039,Ukraine,Lutsk
+2040,Ukraine,Lviv
+2041,Ukraine,Lysychansk
+2042,Ukraine,Mariupol
+2043,Ukraine,Melitopol
+2044,Ukraine,Mukachevo
+2045,Ukraine,Mykolaiv
+2046,Ukraine,Novomoskovsk
+2047,Ukraine,Odessa (Odesa)
+2048,Ukraine,Poltava
+2049,Ukraine,Rivne
+2050,Ukraine,Severodonetsk
+2051,Ukraine,Sumy
+2052,Ukraine,Ternopil
+2053,Ukraine,Truskavets
+2054,Ukraine,Uman
+2055,Ukraine,Uzhhorod
+2056,Ukraine,Vinnytsia
+2057,Ukraine,Voznesens'k
+2058,Ukraine,Vynohradiv
+2059,Ukraine,Zaporizhzhya
+2060,Ukraine,Zhytomyr
+2061,United Kingdom,Aberdare
+2062,United Kingdom,Aberdeen
+2063,United Kingdom,Abersoch
+2064,United Kingdom,Aberystwyth
+2065,United Kingdom,Abingdon-on-Thames
+2066,United Kingdom,Aldershot
+2067,United Kingdom,Alton
+2068,United Kingdom,Andover
+2069,United Kingdom,Annan
+2070,United Kingdom,Antrim
+2071,United Kingdom,Armagh
+2072,United Kingdom,Arun (West Sussex)
+2073,United Kingdom,Ashford
+2074,United Kingdom,Ashton-under-Lyne
+2075,United Kingdom,Aylesbury
+2076,United Kingdom,"Ayr, South Ayrshire"
+2077,United Kingdom,Banbury
+2078,United Kingdom,Bangor
+2079,United Kingdom,Bangor (Gwynedd)
+2080,United Kingdom,Banstead
+2081,United Kingdom,Barnet
+2082,United Kingdom,Barnsley
+2083,United Kingdom,Barrow-in-Furness
+2084,United Kingdom,Barry
+2085,United Kingdom,Basildon
+2086,United Kingdom,Basingstoke
+2087,United Kingdom,Bath
+2088,United Kingdom,Bathgate
+2089,United Kingdom,Batley
+2090,United Kingdom,Bedford
+2091,United Kingdom,Belfast
+2092,United Kingdom,Bexhill
+2093,United Kingdom,Bexley
+2094,United Kingdom,Birmingham
+2095,United Kingdom,Bishops Stortford
+2096,United Kingdom,Blackburn
+2097,United Kingdom,Blackpool
+2098,United Kingdom,Bolton
+2099,United Kingdom,Boston
+2100,United Kingdom,Bournemouth
+2101,United Kingdom,Bracknell
+2102,United Kingdom,Bradford
+2103,United Kingdom,Braintree
+2104,United Kingdom,Brecon
+2105,United Kingdom,Brentwood
+2106,United Kingdom,Bridgend
+2107,United Kingdom,Bridgewater
+2108,United Kingdom,Bridport
+2109,United Kingdom,Brighton
+2110,United Kingdom,Bristol
+2111,United Kingdom,Bromley
+2112,United Kingdom,Buckingham
+2113,United Kingdom,Burnley
+2114,United Kingdom,Burton upon Trent
+2115,United Kingdom,Bury
+2116,United Kingdom,Caernarfon
+2117,United Kingdom,Camberley
+2118,United Kingdom,Cambridge
+2119,United Kingdom,Canterbury
+2120,United Kingdom,Cardiff
+2121,United Kingdom,Carlisle
+2122,United Kingdom,Carmarthen
+2123,United Kingdom,Chatham
+2124,United Kingdom,Chatteris
+2125,United Kingdom,Chelmsford
+2126,United Kingdom,Cheltenham
+2127,United Kingdom,Chester
+2128,United Kingdom,Chesterfield
+2129,United Kingdom,Chichester
+2130,United Kingdom,Chippenham
+2131,United Kingdom,Cleethorpes
+2132,United Kingdom,Colchester
+2133,United Kingdom,Corby
+2134,United Kingdom,Coventry
+2135,United Kingdom,Craigavon
+2136,United Kingdom,Crawley
+2137,United Kingdom,Crewe
+2138,United Kingdom,Croydon
+2139,United Kingdom,Cumbernauld
+2140,United Kingdom,Cumbria
+2141,United Kingdom,Darlington
+2142,United Kingdom,Dartford
+2143,United Kingdom,Derby
+2144,United Kingdom,Doncaster
+2145,United Kingdom,Dover
+2146,United Kingdom,Dudley
+2147,United Kingdom,Dumfries
+2148,United Kingdom,Dundee
+2149,United Kingdom,Dunfermline
+2150,United Kingdom,Durham
+2151,United Kingdom,Ealing
+2152,United Kingdom,Eastbourne
+2153,United Kingdom,Eastleigh
+2154,United Kingdom,Edinburgh
+2155,United Kingdom,Elgin
+2156,United Kingdom,Enniskillen
+2157,United Kingdom,Epsom
+2158,United Kingdom,Exeter
+2159,United Kingdom,Fakenham
+2160,United Kingdom,Falkirk
+2161,United Kingdom,Falmouth
+2162,United Kingdom,Fareham
+2163,United Kingdom,Farnborough
+2164,United Kingdom,Folkestone
+2165,United Kingdom,Glasgow
+2166,United Kingdom,Glenrothes
+2167,United Kingdom,Gloucester
+2168,United Kingdom,Godalming
+2169,United Kingdom,Goole
+2170,United Kingdom,Gravesend
+2171,United Kingdom,Grays
+2172,United Kingdom,Great Yarmouth
+2173,United Kingdom,Greenock
+2174,United Kingdom,Greenwich
+2175,United Kingdom,Guildford
+2176,United Kingdom,Halifax
+2177,United Kingdom,Harlow
+2178,United Kingdom,Harrogate
+2179,United Kingdom,Harrow
+2180,United Kingdom,Hartlepool
+2181,United Kingdom,Hastings
+2182,United Kingdom,Haverhill
+2183,United Kingdom,Hereford
+2184,United Kingdom,Hertfordshire
+2185,United Kingdom,High Wycombe
+2186,United Kingdom,Hitchin
+2187,United Kingdom,Horsham
+2188,United Kingdom,Hounslow
+2189,United Kingdom,Huddersfield
+2190,United Kingdom,Huntingdon
+2191,United Kingdom,Ilford
+2192,United Kingdom,Inverness
+2193,United Kingdom,Ipswich
+2194,United Kingdom,Isle of Islay
+2195,United Kingdom,Isle of Wight
+2196,United Kingdom,Kenilworth
+2197,United Kingdom,Killearn
+2198,United Kingdom,"Kilmarnock, East Ayrshire"
+2199,United Kingdom,King's Lynn
+2200,United Kingdom,Kingston upon Hull
+2201,United Kingdom,Kingston upon Thames
+2202,United Kingdom,Kirkcaldy
+2203,United Kingdom,Kirkwall
+2204,United Kingdom,Lambeth
+2205,United Kingdom,Lancaster
+2206,United Kingdom,Launceston
+2207,United Kingdom,Leeds
+2208,United Kingdom,Leicester
+2209,United Kingdom,Lerwick
+2210,United Kingdom,Letchworth
+2211,United Kingdom,Lewes
+2212,United Kingdom,Lewisham
+2213,United Kingdom,Lichfield
+2214,United Kingdom,Lincoln
+2215,United Kingdom,Lisburn
+2216,United Kingdom,Liverpool
+2217,United Kingdom,Livingston
+2218,United Kingdom,Llandudno
+2219,United Kingdom,Lochboisdale
+2220,United Kingdom,London
+2221,United Kingdom,Londonderry
+2222,United Kingdom,Lowestoft
+2223,United Kingdom,Luton
+2224,United Kingdom,Macclessfield
+2225,United Kingdom,Maidenhead
+2226,United Kingdom,Maidstone
+2227,United Kingdom,Manchester
+2228,United Kingdom,Margate
+2229,United Kingdom,Merthyr Tydfil
+2230,United Kingdom,Middlesbrough
+2231,United Kingdom,Middlesex
+2232,United Kingdom,Milton Keynes
+2233,United Kingdom,Morecambe
+2234,United Kingdom,Newark-on-Trent
+2235,United Kingdom,Newbury
+2236,United Kingdom,Newcastle upon Tyne
+2237,United Kingdom,Newham
+2238,United Kingdom,Newport
+2239,United Kingdom,Newquay
+2240,United Kingdom,Newry
+2241,United Kingdom,Newtown
+2242,United Kingdom,Norfolk
+2243,United Kingdom,Northampton
+2244,United Kingdom,Norwich
+2245,United Kingdom,Nottingham
+2246,United Kingdom,Nuneaton
+2247,United Kingdom,Oban
+2248,United Kingdom,Oldham
+2249,United Kingdom,Oswestry
+2250,United Kingdom,Oxford
+2251,United Kingdom,Perth
+2252,United Kingdom,Peterborough
+2253,United Kingdom,Plymouth
+2254,United Kingdom,Pontefract
+2255,United Kingdom,Pontypridd
+2256,United Kingdom,Poole
+2257,United Kingdom,Portadown
+2258,United Kingdom,Portsmouth
+2259,United Kingdom,Poynton
+2260,United Kingdom,Preston
+2261,United Kingdom,Ramsgate
+2262,United Kingdom,Reading
+2263,United Kingdom,Redbridge
+2264,United Kingdom,Redcar
+2265,United Kingdom,"Redditch, Worcestershire"
+2266,United Kingdom,Retford
+2267,United Kingdom,"Rhyl, Denbighshire"
+2268,United Kingdom,Rochdale
+2269,United Kingdom,Rochester
+2270,United Kingdom,Romford
+2271,United Kingdom,Rotherham
+2272,United Kingdom,Royal Leamington Spa
+2273,United Kingdom,Rugby
+2274,United Kingdom,Salford
+2275,United Kingdom,Salisbury
+2276,United Kingdom,Scarborough
+2277,United Kingdom,Scunthorpe
+2278,United Kingdom,Seascale
+2279,United Kingdom,Sevenoaks
+2280,United Kingdom,Sheffield
+2281,United Kingdom,"Shrewsbury, Shropshire"
+2282,United Kingdom,Sittingbourne
+2283,United Kingdom,Slough
+2284,United Kingdom,Solihull
+2285,United Kingdom,Southampton
+2286,United Kingdom,Southend-on-Sea
+2287,United Kingdom,Southwark
+2288,United Kingdom,St Albans
+2289,United Kingdom,St Helens
+2290,United Kingdom,St. Andrews
+2291,United Kingdom,Stafford
+2292,United Kingdom,Stevenage
+2293,United Kingdom,Stirling
+2294,United Kingdom,Stockport
+2295,United Kingdom,Stockton-on-Tees
+2296,United Kingdom,Stoke-on-Trent
+2297,United Kingdom,Stourbridge
+2298,United Kingdom,Stratford upon Avon
+2299,United Kingdom,Sunderland
+2300,United Kingdom,Surrey
+2301,United Kingdom,Sutton
+2302,United Kingdom,Sutton Coldfield
+2303,United Kingdom,Swansea
+2304,United Kingdom,Swindon
+2305,United Kingdom,Tamworth
+2306,United Kingdom,Taunton
+2307,United Kingdom,Telford
+2308,United Kingdom,Tenterden
+2309,United Kingdom,Tonbridge
+2310,United Kingdom,Torquay
+2311,United Kingdom,Totnes
+2312,United Kingdom,Tottenham
+2313,United Kingdom,Treherbert
+2314,United Kingdom,Trowbridge
+2315,United Kingdom,Truro
+2316,United Kingdom,Tunbridge Wells
+2317,United Kingdom,Twickenham
+2318,United Kingdom,Tyrone
+2319,United Kingdom,Uxbridge
+2320,United Kingdom,Wakefield
+2321,United Kingdom,Wallasey
+2322,United Kingdom,Wallingford
+2323,United Kingdom,Walsall
+2324,United Kingdom,Wandsworth
+2325,United Kingdom,Warrington
+2326,United Kingdom,Warwick
+2327,United Kingdom,Watford
+2328,United Kingdom,Wells
+2329,United Kingdom,Welwyn Garden City
+2330,United Kingdom,West Bromwich
+2331,United Kingdom,Westminster
+2332,United Kingdom,Weston-super-Mare
+2333,United Kingdom,Weymouth
+2334,United Kingdom,Wigan
+2335,United Kingdom,Winchester
+2336,United Kingdom,Windsor
+2337,United Kingdom,Witney
+2338,United Kingdom,Woking
+2339,United Kingdom,Wokingham
+2340,United Kingdom,Wolverhampton
+2341,United Kingdom,Worcester
+2342,United Kingdom,Worthing
+2343,United Kingdom,Wrexham
+2344,United Kingdom,Yeovil
+2345,United Kingdom,York

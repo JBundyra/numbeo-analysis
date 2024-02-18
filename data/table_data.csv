@@ -1,0 +1,501 @@
+"city","population","country","lat","lng"
+"Moscow",10381222,"Russia",55.7522,37.6156
+"London",7556900,"United Kingdom",51.5085,-0.12574
+"Saint Petersburg",5028000,"Russia",59.9386,30.3141
+"Berlin",3426354,"Germany",52.5244,13.4105
+"Madrid",3255944,"Spain",40.4165,-3.70256
+"Kyiv",2797553,"Ukraine",50.4547,30.5238
+"Rome",2318895,"Italy",41.8919,12.5113
+"Paris",2138551,"France",48.8534,2.3488
+"Bucharest",1877155,"Romania",44.4323,26.1063
+"Minsk",1742124,"Belarus",53.9,27.5667
+"Budapest",1741041,"Hungary",47.498,19.0399
+"Hamburg",1739117,"Germany",53.5753,10.0153
+"Warsaw",1702139,"Poland",52.2298,21.0118
+"Vienna",1691468,"Austria",48.2085,16.3721
+"Barcelona",1621537,"Spain",41.3888,2.15899
+"Stockholm",1515017,"Sweden",59.3326,18.0649
+"Kharkiv",1430885,"Ukraine",49.9808,36.2527
+"Novosibirsk",1419007,"Russia",55.0415,82.9346
+"Yekaterinburg",1349772,"Russia",56.8519,60.6122
+"Nizhniy Novgorod",1284164,"Russia",56.3287,44.002
+"Belgrade",1273651,"Serbia",44.804,20.4651
+"Munich",1260391,"Germany",48.1374,11.5755
+"Milan",1236837,"Italy",45.4643,9.18951
+"Prague",1165581,"Czech Republic",50.088,14.4208
+"Copenhagen",1153615,"Denmark",55.6759,12.5655
+"Sofia",1152556,"Bulgaria",42.6975,23.3242
+"Samara",1134730,"Russia",53.2001,50.15
+"Omsk",1129281,"Russia",54.9924,73.3686
+"Kazan",1104738,"Russia",55.7887,49.1221
+"Rostov-na-Donu",1074482,"Russia",47.2313,39.7233
+"Chelyabinsk",1062919,"Russia",55.154,61.4291
+"Ufa",1033338,"Russia",54.7431,55.9678
+"Dnipro",1032822,"Ukraine",48.4593,35.0387
+"Donetsk",1024700,"Ukraine",48.023,37.8022
+"Dublin",1024027,"Ireland",53.3331,-6.24889
+"Brussels",1019022,"Belgium",50.8504,4.34878
+"Volgograd",1011417,"Russia",48.7194,44.5018
+"Odessa",1001558,"Ukraine",46.4775,30.7326
+"Birmingham",984333,"United Kingdom",52.4814,-1.89983
+"Perm",982419,"Russia",58.0105,56.2502
+"Koeln",963395,"Germany",50.9333,6.95
+"Naples",959470,"Italy",40.8522,14.2681
+"Krasnoyarsk",927200,"Russia",56.0184,92.8672
+"Turin",870456,"Italy",45.0705,7.68682
+"Liverpool",864122,"United Kingdom",53.4106,-2.97794
+"Saratov",863725,"Russia",51.5406,46.0086
+"Voronezh",848752,"Russia",51.672,39.1843
+"Valencia",814208,"Spain",39.4697,-0.37739
+"Zaporizhia",796217,"Ukraine",47.8229,35.1903
+"Marseille",794811,"France",43.297,5.38107
+"Lodz",768755,"Poland",51.7706,19.4739
+"Krakow",755050,"Poland",50.0614,19.9366
+"Riga",742572,"Latvia",56.946,24.1059
+"Amsterdam",741636,"Netherlands",52.374,4.88969
+"Nottingham",729977,"United Kingdom",52.9536,-1.15047
+"Lviv",717803,"Ukraine",49.8383,24.0232
+"Sevilla",703206,"Spain",37.3828,-5.97317
+"Tol'yatti",702879,"Russia",53.5303,49.3461
+"Zagreb",698966,"Croatia",45.8144,15.978
+"Sarajevo",696731,"Bosnia and Herzegovina",43.8486,18.3564
+"Sheffield",685368,"United Kingdom",53.383,-1.4659
+"Zaragoza",674317,"Spain",41.6561,-0.87734
+"Athens",664046,"Greece",37.9795,23.7162
+"Kryvyi Rih",652380,"Ukraine",47.9097,33.3804
+"Frankfurt am Main",650000,"Germany",50.1155,8.68417
+"Krasnodar",649851,"Russia",45.0448,38.976
+"Palermo",648260,"Italy",38.132,13.3356
+"Ulyanovsk",640680,"Russia",54.3282,48.3866
+"Chisinau",635994,"Moldova",47.0056,28.8575
+"Wroclaw",634893,"Poland",51.1,17.0333
+"Izhevsk",631038,"Russia",56.8498,53.2045
+"Bristol",617280,"United Kingdom",51.4552,-2.59665
+"Yaroslavl",606730,"Russia",57.6299,39.8737
+"Barnaul",599579,"Russia",53.3606,83.7636
+"Rotterdam",598199,"Netherlands",51.9225,4.47917
+"Essen",593085,"Germany",51.4566,7.01228
+"Glasgow",591620,"United Kingdom",55.8652,-4.25763
+"Stuttgart",589793,"Germany",48.7823,9.17702
+"Dortmund",588462,"Germany",51.5149,7.466
+"Vladivostok",587022,"Russia",43.1056,131.874
+"Irkutsk",586695,"Russia",52.2978,104.296
+"Genoa",580223,"Italy",44.4048,8.94439
+"Oslo",580000,"Norway",59.9127,10.7461
+"Khabarovsk",579000,"Russia",48.4827,135.084
+"Khabarovsk Vtoroy",578303,"Russia",48.4378,135.133
+"Duesseldorf",573057,"Germany",51.2217,6.77616
+"Goeteborg",572799,"Sweden",57.7072,11.9668
+"Poznan",570352,"Poland",52.4069,16.9299
+"Malaga",568305,"Spain",36.7202,-4.42034
+"Helsinki",558457,"Finland",60.1695,24.9354
+"Orenburg",550204,"Russia",51.7727,55.0988
+"Pristina",550000,"Kosovo",42.6727,21.1669
+"Bremen",546501,"Germany",53.0752,8.80777
+"Vilnius",542366,"Lithuania",54.6892,25.2798
+"Novokuznetsk",539616,"Russia",53.7557,87.1099
+"Ryazan'",520173,"Russia",54.6269,39.6916
+"Tyumen",519119,"Russia",57.1522,65.5272
+"Lisbon",517802,"Portugal",38.7167,-9.13333
+"Lipetsk",515655,"Russia",52.6031,39.5708
+"Hannover",515140,"Germany",52.3705,9.73322
+"Penza",512602,"Russia",53.2007,45.0046
+"Mykolayiv",510840,"Ukraine",46.9659,31.9974
+"Naberezhnyye Chelny",509870,"Russia",55.7254,52.4112
+"Leicester",508916,"United Kingdom",52.6386,-1.13169
+"Leipzig",504971,"Germany",51.3396,12.3713
+"Kalininskiy",504641,"Russia",59.9967,30.3899
+"Duisburg",504358,"Germany",51.4325,6.76516
+"Astrakhan",502533,"Russia",46.3497,48.0408
+"Nuernberg",499237,"Germany",49.4542,11.0775
+"Makhachkala",497959,"Russia",42.9764,47.5024
+"Dresden",486854,"Germany",51.0509,13.7383
+"Tomsk",485519,"Russia",56.4977,84.9744
+"Mariupol",481626,"Ukraine",47.0951,37.5413
+"Gomel",480951,"Belarus",52.4345,30.9754
+"Kemerovo",477090,"Russia",55.3333,86.0833
+"Skopje",474889,"North Macedonia",41.9965,21.4314
+"The Hague",474292,"Netherlands",52.0767,4.29861
+"Lyon",472317,"France",45.7485,4.84671
+"Tula",468825,"Russia",54.1961,37.6182
+"Edinburgh",464990,"United Kingdom",55.9521,-3.19648
+"Gdansk",461865,"Poland",54.3521,18.6464
+"Antwerpen",459805,"Belgium",51.2199,4.40346
+"Kirov",457383,"Russia",58.5966,49.6601
+"Leeds",455123,"United Kingdom",53.7965,-1.54785
+"Luhansk",452000,"Ukraine",48.5671,39.3171
+"Cardiff",447287,"United Kingdom",51.48,-3.18
+"Cheboksary",446781,"Russia",56.1322,47.2519
+"Murcia",436870,"Spain",37.987,-1.13004
+"Kaliningrad",434954,"Russia",54.7065,20.511
+"Toulouse",433055,"France",43.6043,1.44367
+"Bryansk",427236,"Russia",53.2521,34.3717
+"Bratislava",423737,"Slovakia",48.1482,17.1067
+"Ivanovo",420839,"Russia",56.9972,40.9714
+"Sevastopol",416263,"Ukraine",44.5888,33.5224
+"Magnitogorsk",413351,"Russia",53.4186,59.0472
+"Wandsbek",411422,"Germany",53.5833,10.083
+"Kursk",409431,"Russia",51.7373,36.1874
+"Szczecin",407811,"Poland",53.4289,14.553
+"Palma",401270,"Spain",39.5694,2.65024
+"Tver",400212,"Russia",56.8584,35.9006
+"Khmelnytskyi",398346,"Ukraine",49.4216,26.9965
+"Manchester",395515,"United Kingdom",53.4809,-2.23743
+"Tallinn",394024,"Estonia",59.437,24.7535
+"Bochum",385729,"Germany",51.4817,7.21648
+"Sector 3",385439,"Romania",44.4234,26.1687
+"Las Palmas de Gran Canaria",381847,"Spain",28.0997,-15.4134
+"Nizhny Tagil",381116,"Russia",57.9194,59.965
+"Bochum-Hordel",380000,"Germany",51.5017,7.1756
+"Makiyivka",376610,"Ukraine",48.0478,37.9258
+"Tirana",374801,"Albania",41.3275,19.8189
+"Kaunas",374643,"Lithuania",54.9027,23.9096
+"Stoke-on-Trent",372775,"United Kingdom",53.0042,-2.18538
+"Brno",369559,"Czech Republic",49.1952,16.608
+"Mahilyow",369200,"Belarus",53.9168,30.3449
+"Sector 6",367760,"Romania",44.4358,26.0165
+"Bydgoszcz",366452,"Poland",53.1235,18.0076
+"Bologna",366133,"Italy",44.4938,11.3387
+"Stavropol'",363064,"Russia",45.0428,41.9734
+"Wuppertal",360797,"Germany",51.2563,7.14816
+"Ulan-Ude",360278,"Russia",51.8272,107.606
+"Lublin",360044,"Poland",51.25,22.5667
+"Coventry",359262,"United Kingdom",52.4066,-1.51217
+"Arkhangel'sk",356051,"Russia",64.5401,40.5433
+"Bilbao",354860,"Spain",43.2627,-2.92528
+"Thessaloniki",354290,"Greece",40.6436,22.9309
+"Vinnytsia",352115,"Ukraine",49.2328,28.481
+"Florence",349296,"Italy",43.7793,11.2463
+"Sector 2",345370,"Romania",44.4528,26.1332
+"Belgorod",345289,"Russia",50.6107,36.5802
+"Kurgan",343129,"Russia",55.45,65.3333
+"Vitebsk",342700,"Belarus",55.1904,30.2049
+"Zurich",341730,"Switzerland",47.3667,8.55
+"Plovdiv",340494,"Bulgaria",42.15,24.75
+"Kaluga",338978,"Russia",54.5293,36.2754
+"Nice",338620,"France",43.7031,7.26608
+"Krasnogvargeisky",337091,"Russia",59.973,30.4761
+"Simferopol",336460,"Ukraine",44.9572,34.1108
+"Sunderland",335415,"United Kingdom",54.9047,-1.38222
+"Alicante",334757,"Spain",38.3452,-0.48149
+"Bielefeld",331906,"Germany",52.0333,8.53333
+"Cordoba",328428,"Spain",37.8915,-4.77275
+"Sochi",327608,"Russia",43.5992,39.7257
+"Birkenhead",325264,"United Kingdom",53.3934,-3.01479
+"Orel",324200,"Russia",52.9651,36.0785
+"Volzhskiy",323293,"Russia",48.7858,44.7797
+"Smolensk",320991,"Russia",54.7818,32.0401
+"Kherson",320477,"Ukraine",46.6558,32.6178
+"Murmansk",319263,"Russia",68.9792,33.0925
+"Islington",319143,"United Kingdom",51.5362,-0.10304
+"Reading",318014,"United Kingdom",51.4562,-0.97113
+"Iasi",318012,"Romania",47.1667,27.6
+"Valladolid",317864,"Spain",41.6552,-4.72372
+"Poltava",317847,"Ukraine",49.5937,34.5407
+"Vladikavkaz",317370,"Russia",43.0367,44.6678
+"Hrodna",317365,"Belarus",53.6884,23.8258
+"Katowice",317316,"Poland",50.2584,19.0275
+"Cluj-Napoca",316748,"Romania",46.7667,23.6
+"Cherepovets",315738,"Russia",59.1333,37.9
+"Timisoara",315053,"Romania",45.7537,21.2257
+"Vologda",314900,"Russia",59.2239,39.884
+"Kingston upon Hull",314018,"United Kingdom",53.7446,-0.33525
+"Preston",313332,"United Kingdom",53.7628,-2.70452
+"Bonn",313125,"Germany",50.7344,7.09549
+"Ostrava",313088,"Czech Republic",49.8346,18.282
+"Varna",312770,"Bulgaria",43.2167,27.9167
+"Vladimir",310024,"Russia",56.1366,40.3966
+"Chita",308500,"Russia",52.0317,113.501
+"Mannheim",307960,"Germany",49.4891,8.46694
+"Chernihiv",307684,"Ukraine",51.5055,31.2849
+"Newport",306844,"United Kingdom",51.5877,-2.99835
+"Craiova",304142,"Romania",44.3167,23.8
+"Constanta",303399,"Romania",44.1807,28.6343
+"Saransk",303394,"Russia",54.1838,45.1749
+"Malmoe",301706,"Sweden",55.6059,13.0007
+"Brest",300715,"Belarus",52.0975,23.6877
+"Surgut",300367,"Russia",61.25,73.4167
+"Swansea",300352,"United Kingdom",51.6208,-3.94323
+"Bradford",299310,"United Kingdom",53.7939,-1.75206
+"Cherkasy",297568,"Ukraine",49.4285,32.0621
+"Vigo",297332,"Spain",42.2328,-8.72264
+"Southend-on-Sea",295310,"United Kingdom",51.5378,0.71433
+"Sumy",294456,"Ukraine",50.9216,34.8003
+"Galati",294087,"Romania",45.45,28.05
+"Bialystok",291855,"Poland",53.1333,23.1643
+"Tambov",290933,"Russia",52.7317,41.4433
+"Catania",290927,"Italy",37.4922,15.0704
+"Utrecht",290529,"Netherlands",52.0908,5.12222
+"Sector 4",287828,"Romania",44.3757,26.1208
+"Marienthal",287101,"Germany",53.5667,10.0833
+"Karlsruhe",283799,"Germany",49.0094,8.40444
+"Zhytomyr",282192,"Ukraine",50.2649,28.6767
+"Hamburg-Nord",280000,"Germany",53.5894,9.984
+"Yoshkar-Ola",279100,"Russia",56.6388,47.8908
+"Taganrog",279056,"Russia",47.2362,38.8969
+"Horlivka",278550,"Ukraine",48.3358,38.0532
+"Kostroma",277656,"Russia",57.7665,40.9269
+"Gijon",277554,"Spain",43.5357,-5.66152
+"Bari",277387,"Italy",41.1115,16.8554
+"Nantes",277269,"France",47.2173,-1.55336
+"Brasov",276088,"Romania",45.6486,25.6061
+"Komsomolsk-on-Amur",275908,"Russia",50.5503,137.01
+"Strasbourg",274845,"France",48.5839,7.74553
+"Belfast",274770,"United Kingdom",54.5968,-5.92541
+"Nal'chik",272800,"Russia",43.4981,43.6189
+"Wiesbaden",272432,"Germany",50.0826,8.24932
+"Ljubljana",272220,"Slovenia",46.0511,14.5051
+"Sector 5",271575,"Romania",44.3881,26.0714
+"Derby",270468,"United Kingdom",52.9228,-1.47663
+"Muenster",270184,"Germany",51.9624,7.62571
+"Gelsenkirchen",270028,"Germany",51.5051,7.09654
+"Sterlitamak",267231,"Russia",53.6246,55.9501
+"Eixample",266477,"Spain",41.389,2.16179
+"Aachen",265208,"Germany",50.7766,6.08342
+"Petrozavodsk",265025,"Russia",61.7849,34.3469
+"Moenchengladbach",261742,"Germany",51.1854,6.44172
+"Plymouth",260203,"United Kingdom",50.3715,-4.14305
+"Augsburg",259196,"Germany",48.3715,10.8985
+"Luton",258018,"United Kingdom",51.8797,-0.41748
+"L'Hospitalet de Llobregat",257038,"Spain",41.3597,2.10028
+"Espoo",256760,"Finland",60.2052,24.6522
+"Latina",256644,"Spain",40.389,-3.74569
+"Bratsk",256600,"Russia",56.1325,101.614
+"Rivne",255106,"Ukraine",50.6231,26.2274
+"Gdynia",253730,"Poland",54.5189,18.5319
+"Carabanchel",253678,"Spain",40.3909,-3.7242
+"Wolverhampton",252791,"United Kingdom",52.5855,-2.12296
+"Eimsbuettel",251907,"Germany",53.5742,9.95679
+"Altona",250192,"Germany",53.55,9.93333
+"Nis",250000,"Serbia",43.3247,21.9033
+"Porto",249633,"Portugal",41.1496,-8.61099
+"Kropyvnytskyi",249454,"Ukraine",48.5132,32.2597
+"Kamianske",248575,"Ukraine",48.5113,34.6021
+"Montpellier",248252,"France",43.6109,3.87723
+"Czestochowa",248125,"Poland",50.7965,19.1241
+"City of Westminster",247614,"United Kingdom",51.5,-0.11667
+"Chemnitz",247220,"Germany",50.8357,12.9292
+"Orsk",246836,"Russia",51.2049,58.5668
+"Southampton",246201,"United Kingdom",50.9039,-1.40428
+"A Coruna",246056,"Spain",43.3713,-8.396
+"Nizhnevartovsk",244937,"Russia",60.9344,76.5531
+"Braunschweig",244715,"Germany",52.2659,10.5267
+"Puente de Vallecas",244151,"Spain",40.3935,-3.662
+"Angarsk",243158,"Russia",52.5367,103.886
+"Mar'ino",243000,"Russia",55.65,37.7167
+"Novorossiysk",241856,"Russia",44.7244,37.7675
+"Khimki",239967,"Russia",55.897,37.4297
+"Blackpool",239409,"United Kingdom",53.8167,-3.05
+"Krefeld",237984,"Germany",51.3364,6.55381
+"Arhus",237551,"Denmark",56.1567,10.2108
+"Kosice",236563,"Slovakia",48.714,21.2581
+"Chernivtsi",236250,"Ukraine",48.2915,25.9403
+"Sant Marti",235719,"Spain",41.4181,2.19933
+"Ternopil",235676,"Ukraine",49.5534,25.5892
+"Gasteiz / Vitoria",235661,"Spain",42.85,-2.67268
+"Yakutsk",235600,"Russia",62.0339,129.733
+"Granada",234325,"Spain",37.1882,-3.60667
+"Nizhnekamsk",234297,"Russia",55.6366,51.8245
+"Halle (Saale)",234107,"Germany",51.4816,11.9795
+"Hamburg-Mitte",233144,"Germany",53.55,10.0167
+"Dzerzhinsk",233126,"Russia",56.2414,43.4554
+"Kiel",232758,"Germany",54.3213,10.1349
+"Bordeaux",231844,"France",44.8404,-0.5805
+"Gent",231493,"Belgium",51.05,3.71667
+"Syktyvkar",230139,"Russia",61.6764,50.8099
+"Elche",230112,"Spain",38.2622,-0.70107
+"Milton Keynes",229941,"United Kingdom",52.0417,-0.75583
+"Magdeburg",229826,"Germany",52.1277,11.6292
+"Ploiesti",228851,"Romania",44.95,26.0167
+"Lille",228328,"France",50.633,3.05858
+"Ciudad Lineal",228171,"Spain",40.445,-3.65132
+"Bexley",228000,"United Kingdom",51.4416,0.14866
+"Kremenchuk",227494,"Ukraine",49.068,33.4204
+"Sosnowiec",227295,"Poland",50.2868,19.1038
+"Staryy Oskol",226977,"Russia",51.2967,37.8417
+"Neue Neustadt",226851,"Germany",52.15,11.6333
+"Radom",226794,"Poland",51.4025,21.1471
+"Groznyy",226100,"Russia",43.312,45.6889
+"Sector 1",225453,"Romania",44.4924,26.0483
+"Oviedo",224005,"Spain",43.3603,-5.84476
+"Santa Cruz de Tenerife",222417,"Spain",28.4682,-16.2546
+"Graz",222326,"Austria",47.0667,15.45
+"Shakhty",221312,"Russia",47.7091,40.2144
+"Blagoveshchensk",221296,"Russia",50.2796,127.54
+"Banja Luka",221106,"Bosnia and Herzegovina",44.7784,17.1939
+"Babruysk",220517,"Belarus",53.1384,29.2214
+"Fuencarral-El Pardo",220085,"Spain",40.4984,-3.7314
+"Messina",219948,"Italy",38.1939,15.5526
+"Badalona",219547,"Spain",41.45,2.24741
+"Oberhausen",219176,"Germany",51.4781,6.8625
+"Verona",219103,"Italy",45.4299,10.9844
+"Prokop'yevsk",219000,"Russia",53.9059,86.719
+"Rybinsk",216724,"Russia",58.0446,38.8426
+"Vykhino-Zhulebino",216000,"Russia",55.702,37.8118
+"Freiburg",215966,"Germany",47.9959,7.85222
+"Northampton",215963,"United Kingdom",52.25,-0.88333
+"Zelenograd",215727,"Russia",55.9825,37.1814
+"Archway",215667,"United Kingdom",51.5673,-0.13415
+"Biysk",215430,"Russia",52.5364,85.2072
+"Novi Sad",215400,"Serbia",45.2517,19.8369
+"Velikiy Novgorod",215062,"Russia",58.5213,31.271
+"Centralniy",214625,"Russia",59.9311,30.3607
+"Lutsk",213661,"Ukraine",50.7593,25.3424
+"Bergen",213585,"Norway",60.393,5.32415
+"Braila",213569,"Romania",45.2667,27.9833
+"Norwich",213166,"United Kingdom",52.6278,1.29834
+"Mokotow",212670,"Poland",52.1934,21.0349
+"Luebeck",212207,"Germany",53.8689,10.6873
+"Cartagena",211996,"Spain",37.6051,-0.98623
+"Terrassa",210941,"Spain",41.5667,2.01667
+"Eindhoven",209620,"Netherlands",51.4408,5.47778
+"Rennes",209375,"France",48.112,-1.67429
+"Torun",208717,"Poland",53.0137,18.5981
+"Kielce",208598,"Poland",50.8703,20.6275
+"Jerez de la Frontera",207532,"Spain",36.6865,-6.13606
+"Oradea",206614,"Romania",47.0458,21.9183
+"Sabadell",206493,"Spain",41.5433,2.10942
+"Mostoles",206478,"Spain",40.3223,-3.86496
+"Linz",204846,"Austria",48.3064,14.2861
+"Alcala de Henares",204574,"Spain",40.4821,-3.35996
+"Ivano-Frankivsk",204200,"Ukraine",48.9215,24.7097
+"Debrecen",204124,"Hungary",47.5333,21.6333
+"Padova",203725,"Italy",45.408,11.8859
+"Erfurt",203254,"Germany",50.9787,11.0328
+"Vasyl'evsky Ostrov",203058,"Russia",59.9409,30.2538
+"Tampere",202687,"Finland",61.4991,23.7871
+"Harburg",202571,"Germany",53.4606,9.98388
+"Pskov",201990,"Russia",57.8136,28.3496
+"Favoriten",201882,"Austria",48.1612,16.3823
+"Nicosia",200452,"Cyprus",35.1753,33.3642
+"Charleroi",200132,"Belgium",50.4114,4.44448
+"Severnyy",200000,"Russia",55.9358,37.5489
+"Tilburg",199613,"Netherlands",51.5555,5.0913
+"Balakovo",199572,"Russia",52.0278,47.8007
+"Armavir",199548,"Russia",44.9892,41.1234
+"Bila Tserkva",199163,"Ukraine",49.8094,30.1121
+"Dudley",199059,"United Kingdom",52.5,-2.08333
+"Hagen",198972,"Germany",51.3608,7.47168
+"Gliwice",198835,"Poland",50.2976,18.6766
+"Pamplona",198491,"Spain",42.8169,-1.64323
+"Rostock",198293,"Germany",54.0887,12.1405
+"Fuenlabrada",197836,"Spain",40.2842,-3.79415
+"Aberdeen",196670,"United Kingdom",57.1437,-2.09814
+"Reims",196565,"France",49.25,4.03333
+"Engel's",196011,"Russia",51.4839,46.1053
+"Burgas",195966,"Bulgaria",42.5061,27.4678
+"Kassel",194501,"Germany",51.3167,9.5
+"Severodvinsk",194292,"Russia",64.5635,39.8302
+"Portsmouth",194150,"United Kingdom",50.799,-1.09125
+"Newcastle upon Tyne",192382,"United Kingdom",54.9733,-1.61396
+"Klaipeda",192307,"Lithuania",55.7089,21.1431
+"Zabrze",192177,"Poland",50.3249,18.7858
+"Zlatoust",191366,"Russia",55.1711,59.6508
+"Cork",190384,"Ireland",51.898,-8.47061
+"Vantaa",190058,"Finland",60.2941,25.041
+"Syzran'",189338,"Russia",53.1585,48.4681
+"Bytom",189186,"Poland",50.348,18.9328
+"Almeria",188810,"Spain",36.8381,-2.45974
+"Praga Poludnie",187845,"Poland",52.2442,21.0854
+"Sutton",187600,"United Kingdom",51.35,-0.2
+"Petropavlovsk-Kamchatsky",187282,"Russia",53.0444,158.651
+"Trieste",187056,"Italy",45.6495,13.7768
+"Donaustadt",187007,"Austria",48.2333,16.46
+"Leganes",186066,"Spain",40.3272,-3.7635
+"Le Havre",185972,"France",49.4938,0.10767
+"Swindon",185609,"United Kingdom",51.558,-1.78116
+"Dun Laoghaire",185400,"Ireland",53.2939,-6.13586
+"San Sebastian",185357,"Spain",43.3128,-1.97499
+"Hamm",185327,"Germany",51.6803,7.82089
+"Mainz",184997,"Germany",49.9842,8.2791
+"Brescia",184826,"Italy",45.5356,10.2147
+"Geneve",183981,"Switzerland",46.2022,6.14569
+"Cergy-Pontoise",183430,"France",49.0389,2.07805
+"Korolyov",183402,"Russia",55.9173,37.8179
+"Sants-Montjuic",183120,"Spain",41.3726,2.1546
+"Santander",182700,"Spain",43.4647,-3.80444
+"Liege",182597,"Belgium",50.6337,5.56749
+"Kamensk-Ural'skiy",182500,"Russia",56.4185,61.9329
+"Prato",181820,"Italy",43.8805,11.097
+"Saarbruecken",181227,"Germany",49.2326,7.00982
+"Groningen",181194,"Netherlands",53.2192,6.56667
+"Taranto",181082,"Italy",40.4644,17.2471
+"Crawley",180508,"United Kingdom",51.113,-0.18312
+"Castello de la Plana",180005,"Spain",39.9857,-0.04935
+"Yasenevo",180000,"Russia",55.6069,37.5199
+"Podolsk",179400,"Russia",55.4242,37.5547
+"Burgos",178966,"Spain",42.3411,-3.70184
+"Amadora",178858,"Portugal",38.7538,-9.23083
+"Ipswich",178835,"United Kingdom",52.0592,1.15545
+"Bielsko-Biala",176515,"Poland",49.8224,19.0469
+"Yuzhno-Sakhalinsk",176484,"Russia",46.9541,142.736
+"Almere Stad",176432,"Netherlands",52.3703,5.21413
+"Split",176314,"Croatia",43.5089,16.4391
+"Saint-Etienne",176280,"France",45.4339,4.39
+"Turku",175945,"Finland",60.4515,22.2687
+"Wigan",175405,"United Kingdom",53.543,-2.63706
+"Kramators'k",173700,"Ukraine",48.723,37.5563
+"Croydon",173314,"United Kingdom",51.3833,-0.1
+"Miskolc",172637,"Hungary",48.1,20.7833
+"Walsall",172141,"United Kingdom",52.5853,-1.98396
+"Herne",172108,"Germany",51.5388,7.22572
+"Lyublino",172000,"Russia",55.6774,37.7601
+"Mansfield",171958,"United Kingdom",53.1333,-1.2
+"Olsztyn",171803,"Poland",53.7799,20.4942
+"Prizren",171464,"Kosovo",42.2139,20.7397
+"Bacau",171396,"Romania",46.5672,26.9138
+"Oxford",171380,"United Kingdom",51.7522,-1.25596
+"Muelheim",171000,"Germany",51.4322,6.87967
+"Albacete",169716,"Spain",38.9942,-1.85643
+"Reggio Calabria",169140,"Italy",38.1105,15.6613
+"Arad",169065,"Romania",46.1833,21.3167
+"Baranovichi",168772,"Belarus",53.1327,26.0139
+"Toulon",168701,"France",43.1244,5.92836
+"Angers",168279,"France",47.4738,-0.54774
+"Horta-Guinardo",168092,"Spain",41.4185,2.1677
+"Patra",168034,"Greece",38.2444,21.7344
+"Alcorcon",167967,"Spain",40.3458,-3.82487
+"Berezniki",167748,"Russia",59.4091,56.8204
+"Volgodonsk",167731,"Russia",47.5136,42.1514
+"Breda",167673,"Netherlands",51.5866,4.77596
+"Pitesti",167669,"Romania",44.85,24.8667
+"Miass",167500,"Russia",55.045,60.1083
+"Abakan",167289,"Russia",53.7156,91.4292
+"Neukoelln",167248,"Germany",52.4772,13.4313
+"Getafe",167164,"Spain",40.3057,-3.73295
+"Novocherkassk",166974,"Russia",47.421,40.0919
+"Osnabrueck",166462,"Germany",52.2726,8.0498
+"Nou Barris",166310,"Spain",41.4416,2.17727
+"Warrington",165456,"United Kingdom",53.3925,-2.58024
+"Szeged",164883,"Hungary",46.253,20.1482
+"Basel",164488,"Switzerland",47.5584,7.57327
+"Zenica",164423,"Bosnia and Herzegovina",44.2017,17.904
+"Solingen",164359,"Germany",51.1734,7.0845
+"Pilsen",164180,"Czech Republic",49.7475,13.3776
+"Nazran'",164131,"Russia",43.226,44.7732
+"Slough",163777,"United Kingdom",51.5095,-0.59541
+"Piraeus",163688,"Greece",37.9474,23.6371
+"Bournemouth",163600,"United Kingdom",50.7205,-1.8795
+"Peterborough",163379,"United Kingdom",52.5736,-0.24777
+"Ludwigshafen am Rhein",163196,"Germany",49.4812,8.44641
+"Floridsdorf",162779,"Austria",48.25,16.4
+"Leverkusen",162738,"Germany",51.0303,6.98432
+"Hortaleza",161661,"Spain",40.4744,-3.6411
+"Rubtsovsk",161065,"Russia",51.5147,81.2061
+"Mytishchi",160542,"Russia",55.9116,37.7308
+"Salavat",159893,"Russia",53.3837,55.9077
+"Oldenburg",159218,"Germany",53.1412,8.21467
+"Khoroshevo-Mnevniki",159000,"Russia",55.7836,37.4714
+"Bibirevo",159000,"Russia",55.8833,37.6
+"Modena",158886,"Italy",44.6478,10.9254
+"Nijmegen",158732,"Netherlands",51.8425,5.85278
+"Grenoble",158552,"France",45.1716,5.72239
+"Cambridge",158434,"United Kingdom",52.2,0.11667
+"Rzeszow",158382,"Poland",50.0413,21.999
+"Doncaster",158141,"United Kingdom",53.5229,-1.13116
+"Gol'yanovo",158000,"Russia",55.823,37.8131
+"Melitopol",158000,"Ukraine",46.8489,35.3653
+"Admiralteisky",157897,"Russia",59.9084,30.2848
+"San Blas-Canillejas",157367,"Spain",40.4389,-3.61537
+"Ussuriysk",157068,"Russia",43.8029,131.946
+"Tiraspol",157000,"Moldova",46.8427,29.6291
